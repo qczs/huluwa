@@ -27,7 +27,7 @@ static public class  MainMenu  {
 		BulidTarget("IOS","hlw");
 	}
 
-	static void BulidTarget(string name,string target)
+	static void BulidTarget(string target,string name)
 	{
 		string app_name = name;
 		string target_dir = Application.dataPath + "/TargetAndroid";
@@ -41,8 +41,7 @@ static public class  MainMenu  {
 			target_dir = applicationPath + "/TargetAndroid";
 			target_name = app_name + ".apk";
 			targetGroup = BuildTargetGroup.Android;
-		}
-		if(target == "IOS")
+		}else if(target == "IOS")
 		{
 			target_dir = applicationPath + "/TargetIOS";
 			target_name = app_name;
@@ -61,9 +60,6 @@ static public class  MainMenu  {
 		{
 			Directory.CreateDirectory(target_dir); 
 		}
-		
-
-
 			PlayerSettings.bundleIdentifier = "com.game.huluwa";
 			PlayerSettings.bundleVersion = "v0.0.1";
 			PlayerSettings.SetScriptingDefineSymbolsForGroup(targetGroup,"HLW");  
