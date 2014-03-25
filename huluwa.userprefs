@@ -5,7 +5,7 @@
       <File FileName="Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs" Line="14" Column="41" />
       <File FileName="Assets/NGUI/Scripts/Editor/NGUIContextMenu.cs" Line="1" Column="1" />
       <File FileName="Assets/NGUI/Scripts/Editor/NGUIMenu.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Editor/MainMenu.cs" Line="22" Column="32" />
+      <File FileName="Assets/Scripts/Editor/MainMenu.cs" Line="27" Column="28" />
       <File FileName="Assets/NGUI/Scripts/Editor/NGUIHelp.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
