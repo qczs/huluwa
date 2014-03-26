@@ -12,8 +12,10 @@ static public class  MainMenu  {
 
 	[MenuItem("发布/", false, 1)]
 	static void Breaker () { }
-	[MenuItem("发布/资源", false, 2)]
-	static void MakeBreaker () { }
+	[MenuItem("发布/资源/login", false, 2)]
+	static void MakeBreaker () {
+		UIAUTOAtlasMaker.MakeAtlas("images/login");
+	}
 	[MenuItem("发布/Android/android", false, 3)]
 	static void buildAndroid () {
 		BulidTarget("Android","hlw");
