@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="45" actionName="baoxiang_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.072922" scaleY="-0.941681" rotation="179.999985" position="0.050000,-27.950001" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.125000" scaleY="-0.900040" rotation="179.999985" position="0.100000,-26.750000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.156250" scaleY="-0.875046" rotation="179.999985" position="0.150000,-26.049999" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.166672" scaleY="-0.866714" rotation="179.999985" position="0.150000,-25.799999" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.041260" scaleY="-1.033142" rotation="179.999985" position="0.100000,-34.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.915833" scaleY="-1.199615" rotation="179.999985" position="-0.150000,-42.299999" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.950638" scaleY="-1.159698" rotation="179.999985" position="-0.100000,-44.950001" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.985428" scaleY="-1.119782" rotation="179.999985" position="-0.050000,-47.549999" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.020233" scaleY="-1.079834" rotation="179.999985" position="-0.050000,-50.299999" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.055023" scaleY="-1.039917" rotation="179.999985" position="0.000000,-52.900002" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.055023" scaleY="-1.039917" rotation="179.999985" position="0.000000,-52.900002" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.055023" scaleY="-1.039917" rotation="179.999985" position="0.000000,-52.900002" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.985260" scaleY="-1.106537" rotation="179.999985" position="-0.050000,-43.750000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.915497" scaleY="-1.173141" rotation="179.999985" position="-0.150000,-34.799999" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.978287" scaleY="-1.096542" rotation="179.999985" position="-0.100000,-32.599998" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.041077" scaleY="-1.019928" rotation="179.999985" position="-0.050000,-30.350000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.103867" scaleY="-0.943329" rotation="179.999985" position="0.000000,-28.150000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.166672" scaleY="-0.866714" rotation="179.999985" position="0.150000,-25.799999" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.041260" scaleY="-1.036530" rotation="179.999985" position="0.100000,-31.500000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.915833" scaleY="-1.206360" rotation="179.999985" position="-0.150000,-37.250000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.950638" scaleY="-1.164780" rotation="179.999985" position="-0.100000,-39.150002" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.985428" scaleY="-1.123154" rotation="179.999985" position="-0.050000,-41.049999" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.020233" scaleY="-1.081528" rotation="179.999985" position="-0.050000,-42.950001" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.055023" scaleY="-1.039917" rotation="179.999985" position="0.000000,-44.900002" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.110840" scaleY="-0.953308" rotation="179.999985" position="0.000000,-35.400002" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.166672" scaleY="-0.866714" rotation="179.999985" position="0.150000,-25.799999" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.083343" scaleY="-0.955551" rotation="179.999985" position="0.050000,-28.450001" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.999985" scaleY="-1.044464" rotation="179.999985" position="-0.050000,-31.049999" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.916672" scaleY="-1.133331" rotation="179.999985" position="-0.150000,-33.500000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.944443" scaleY="-1.088867" rotation="179.999985" position="-0.150000,-32.200001" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="baoxiang_01" scaleX="-0.972229" scaleY="-1.044434" rotation="179.999985" position="-0.050000,-30.850000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="baoxiang_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,-29.650000" />
+        </frameInfo>
+    </action>
+</animation>

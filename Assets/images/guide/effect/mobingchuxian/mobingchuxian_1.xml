@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="9" actionName="mobingchuxian_1">
+        <frameInfo frame="0">
+            <frameData alpha="0.1015625" bitmapName="gaoliang" scaleX="-0.223999" scaleY="-0.223999" rotation="179.999985" position="0.000000,-26.650000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.328125" bitmapName="gaoliang" scaleX="-0.417999" scaleY="-0.417999" rotation="179.999985" position="-0.550000,-40.599998" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.55078125" bitmapName="gaoliang" scaleX="-0.612000" scaleY="-0.612000" rotation="179.999985" position="-1.050000,-54.450001" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.78125" bitmapName="gaoliang" scaleX="-0.806000" scaleY="-0.806000" rotation="179.999985" position="-1.600000,-68.400002" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="gaoliang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-2.100000,-82.199997" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.78125" bitmapName="gaoliang" scaleX="-1.030029" scaleY="-1.030029" rotation="179.999985" position="-2.150000,-84.349998" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.55078125" bitmapName="gaoliang" scaleX="-1.060089" scaleY="-1.060089" rotation="179.999985" position="-2.300000,-86.500000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.328125" bitmapName="gaoliang" scaleX="-1.090134" scaleY="-1.090134" rotation="179.999985" position="-2.350000,-88.650002" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.1015625" bitmapName="gaoliang" scaleX="-1.120178" scaleY="-1.120178" rotation="179.999985" position="-2.400000,-90.800003" />
+        </frameInfo>
+    </action>
+</animation>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="46" actionName="meffect_46_0">
+        <frameInfo frame="0">
+            <frameData alpha="0.1015625" bitmapName="fazhen_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.1796875" bitmapName="fazhen_01" scaleX="1.999094" scaleY="1.999094" rotation="8.048838" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.26953125" bitmapName="fazhen_01" scaleX="1.998221" scaleY="1.998221" rotation="16.293242" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.3515625" bitmapName="fazhen_01" scaleX="1.997532" scaleY="1.997532" rotation="24.543493" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.4296875" bitmapName="fazhen_01" scaleX="1.997024" scaleY="1.997024" rotation="32.611073" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.51171875" bitmapName="fazhen_01" scaleX="1.996751" scaleY="1.996751" rotation="40.869427" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.58984375" bitmapName="fazhen_01" scaleX="1.996748" scaleY="1.996748" rotation="49.129337" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.671875" bitmapName="fazhen_01" scaleX="1.997015" scaleY="1.997015" rotation="57.387722" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.75" bitmapName="fazhen_01" scaleX="1.997517" scaleY="1.997517" rotation="65.455353" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.83984375" bitmapName="fazhen_01" scaleX="1.998229" scaleY="1.998229" rotation="73.705917" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.921875" bitmapName="fazhen_01" scaleX="1.999072" scaleY="1.999072" rotation="81.949303" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="fazhen_01" scaleX="2.000000" scaleY="2.000000" rotation="89.994759" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="fazhen_01" scaleX="1.999089" scaleY="1.999089" rotation="98.047974" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="fazhen_01" scaleX="1.998241" scaleY="1.998241" rotation="106.292160" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="fazhen_01" scaleX="1.997519" scaleY="1.997519" rotation="114.542694" position="-0.050000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="fazhen_01" scaleX="1.997008" scaleY="1.997008" rotation="122.610336" position="-0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="fazhen_01" scaleX="1.996751" scaleY="1.996751" rotation="130.869431" position="-0.050000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="fazhen_01" scaleX="1.996748" scaleY="1.996748" rotation="139.129333" position="-0.050000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="fazhen_01" scaleX="1.997041" scaleY="1.997041" rotation="147.388199" position="0.050000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="fazhen_01" scaleX="1.997504" scaleY="1.997504" rotation="155.456146" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="fazhen_01" scaleX="1.998221" scaleY="1.998221" rotation="163.706757" position="-0.050000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="fazhen_01" scaleX="1.999098" scaleY="1.999098" rotation="171.950302" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="fazhen_01" scaleX="-2.000000" scaleY="-2.000000" rotation="0.000000" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="fazhen_01" scaleX="-1.999098" scaleY="-1.999098" rotation="8.049691" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="fazhen_01" scaleX="-1.998221" scaleY="-1.998221" rotation="16.293242" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997504" scaleY="-1.997504" rotation="24.543856" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997041" scaleY="-1.997041" rotation="32.611805" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="fazhen_01" scaleX="-1.996748" scaleY="-1.996748" rotation="40.870667" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="fazhen_01" scaleX="-1.996751" scaleY="-1.996751" rotation="49.130569" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997008" scaleY="-1.997008" rotation="57.389668" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997519" scaleY="-1.997519" rotation="65.457306" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="fazhen_01" scaleX="-1.998241" scaleY="-1.998241" rotation="73.707840" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="fazhen_01" scaleX="-1.999089" scaleY="-1.999089" rotation="81.952034" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="fazhen_01" scaleX="-2.000000" scaleY="-2.000000" rotation="90.005249" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="fazhen_01" scaleX="-1.999072" scaleY="-1.999072" rotation="98.050697" position="-0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="fazhen_01" scaleX="-1.998229" scaleY="-1.998229" rotation="106.294090" position="-0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997517" scaleY="-1.997517" rotation="114.544647" position="-0.050000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997015" scaleY="-1.997015" rotation="122.612274" position="-0.150000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="fazhen_01" scaleX="-1.996748" scaleY="-1.996748" rotation="130.870667" position="0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="fazhen_01" scaleX="-1.996751" scaleY="-1.996751" rotation="139.130569" position="0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997024" scaleY="-1.997024" rotation="147.388916" position="0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="fazhen_01" scaleX="-1.997532" scaleY="-1.997532" rotation="155.456512" position="0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="fazhen_01" scaleX="-1.998221" scaleY="-1.998221" rotation="163.706757" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="fazhen_01" scaleX="-1.999094" scaleY="-1.999094" rotation="171.951157" position="0.050000,-0.200000" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="fazhen_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.050000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="45" />
+    </action>
+</animation>

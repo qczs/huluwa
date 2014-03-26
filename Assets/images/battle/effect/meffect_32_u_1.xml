@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="16" actionName="meffect_32_u_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2">
+            <frameData bitmapName="guangyudaohuo01" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="-141.600006,23.450001" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="guangyudaohuo01" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="-141.600006,23.450001" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="guangyudaohuo01" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="-141.600006,23.450001" />
+        </frameInfo>
+        <frameInfo frame="5" isKeyFrame="1">
+            <frameData bitmapName="guangyudaohuo02" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="13.350000,24.549999" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="guangyudaohuo02" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="13.350000,24.549999" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="guangyudaohuo02" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="13.350000,24.549999" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="guangyudaohuo03" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="110.650002,158.100006" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="guangyudaohuo03" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="110.650002,158.100006" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="guangyudaohuo03" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="110.650002,158.100006" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="guangyudaohuo03" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="110.650002,158.100006" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="guangyudaohuo04" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="390.700012,95.699997" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="guangyudaohuo04" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="390.700012,95.699997" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="guangyudaohuo04" scaleX="0.882288" scaleY="-0.882288" rotation="165.225937" position="390.700012,95.699997" />
+        </frameInfo>
+        <frameInfo frame="15" />
+    </action>
+</animation>

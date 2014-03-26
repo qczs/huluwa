@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="6" actionName="meffect_41_d_0">
+        <frameInfo frame="0" isKeyFrame="1">
+            <frameData bitmapName="daozi_0" scaleX="-1.299988" scaleY="-1.299988" rotation="179.999985" position="-6.100000,-37.200001" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="daozi_0" scaleX="-1.299988" scaleY="-1.299988" rotation="179.999985" position="-6.100000,-37.200001" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="daozi_1" scaleX="-1.299988" scaleY="-1.299988" rotation="179.999985" position="0.400000,-52.799999" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="daozi_1" scaleX="-1.299988" scaleY="-1.299988" rotation="179.999985" position="0.400000,-52.799999" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="daozi_2" scaleX="-1.299988" scaleY="-1.299988" rotation="179.999985" position="1.700000,-51.500000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="daozi_2" scaleX="-1.299988" scaleY="-1.299988" rotation="179.999985" position="1.700000,-51.500000" />
+        </frameInfo>
+    </action>
+</animation>

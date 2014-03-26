@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="20" actionName="meffect_27_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="meffect_27_001" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="-1.300000,-13.150000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="meffect_27_002" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="2.150000,-42.750000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="meffect_27_003" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="13.150000,-55.750000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.8515625" bitmapName="meffect_27_004" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="21.900000,-79.750000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.69921875" bitmapName="meffect_27_005" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="18.200001,-78.300003" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData alpha="0.5" bitmapName="meffect_27_006" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="24.049999,-54.299999" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.30078125" bitmapName="meffect_27_007" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="16.750000,-49.950001" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.19921875" bitmapName="meffect_27_008" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="8.050000,-51.400002" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.1015625" bitmapName="meffect_27_009" scaleX="-0.727844" scaleY="-0.727844" rotation="179.999985" position="6.600000,-33.900002" />
+        </frameInfo>
+        <frameInfo frame="19" />
+    </action>
+</animation>

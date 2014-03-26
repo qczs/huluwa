@@ -1,0 +1,891 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="295" actionName="jiewei_0">
+        <frameInfo frame="0">
+            <frameData alpha="0" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.01953125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.05078125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.0703125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.08984375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.12109375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.140625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.16015625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.19140625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.2109375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.23046875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.25" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData alpha="0.28125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.30078125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.3203125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData alpha="0.3515625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.37109375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.390625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.421875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.44140625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.4609375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.48828125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData alpha="0.51171875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData alpha="0.5390625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData alpha="0.55859375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData alpha="0.578125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData alpha="0.609375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData alpha="0.62890625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData alpha="0.6484375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData alpha="0.6796875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData alpha="0.69921875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData alpha="0.71875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData alpha="0.75" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData alpha="0.76953125" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData alpha="0.7890625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData alpha="0.80859375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData alpha="0.83984375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData alpha="0.859375" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData alpha="0.87890625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData alpha="0.91015625" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData alpha="0.9296875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData alpha="0.94921875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData alpha="0.98046875" bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="78">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="79">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="80">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="94">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="95">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="96">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="97">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="98">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="99">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="100">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="101">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="102">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="103">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="104">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="105">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="106">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="107">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="108">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="109">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="110">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="111">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="112">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="113">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="114">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="115">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="116">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="117">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="118">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="119">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="120">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="121">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="122">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="123">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="124">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="125">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="126">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="127">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="128">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="129">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="130">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="131">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="132">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="133">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="134">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="135">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="136">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="137">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="138">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="139">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="140">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="141">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="142">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="143">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="144">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="145">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="146">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="147">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="148">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="149">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="150">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="151">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="152">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="153">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="154">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="155">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="156">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="157">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="158">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="159">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="160">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="161">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="162">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="163">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="164">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="165">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="166">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="167">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="168">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="169">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="170">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="171">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="172">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="173">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="174">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="175">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="176">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="177">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="178">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="179">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="180">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="181">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="182">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="183">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="184">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="185">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="186">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="187">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="188">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="189">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="190">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="191">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="192">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="193">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="194">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="195">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="196">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="197">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="198">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="199">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="200">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="201">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="202">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="203">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="204">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="205">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="206">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="207">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="208">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="209">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="210">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="211">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="212">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="213">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="214">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="215">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="216">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="217">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="218">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="219">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="220">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="221">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="222">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="223">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="224">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="225">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="226">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="227">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="228">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="229">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="230">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="231">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="232">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="233">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="234">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="235">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="236">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="237">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="238">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="239">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="240">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="241">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="242">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="243">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="244">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="245">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="246">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="247">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="248">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="249">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="250">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="251">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="252">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="253">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="254">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="255">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="256">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="257">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="258">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="259">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="260">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="261">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="262">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="263">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="264">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="265">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="266">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="267">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="268">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="269">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="270">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="271">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="272">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="273">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="274">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="275">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="276">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="277">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="278">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="279">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="280">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="281">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="282">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="283">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="284">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="285">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="286">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="287">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="288">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="289">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="290">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="291">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="292">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="293">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="294">
+            <frameData bitmapName="heidi" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+    </action>
+</animation>

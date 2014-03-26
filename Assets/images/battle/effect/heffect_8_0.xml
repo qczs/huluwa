@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="13" actionName="heffect_8_0">
+        <frameInfo frame="0">
+            <frameData alpha="0.19921875" bitmapName="heffect_8_0" scaleX="-0.448425" scaleY="-0.448425" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.3984375" bitmapName="heffect_8_0" scaleX="-0.586319" scaleY="-0.586319" rotation="179.999985" position="2.550000,-4.900000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.6015625" bitmapName="heffect_8_0" scaleX="-0.724213" scaleY="-0.724213" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.80078125" bitmapName="heffect_8_0" scaleX="-0.862106" scaleY="-0.862106" rotation="179.999985" position="2.550000,-4.900000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="heffect_8_0" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.8515625" bitmapName="heffect_8_0" scaleX="-1.024200" scaleY="-1.024200" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.69921875" bitmapName="heffect_8_0" scaleX="-1.048386" scaleY="-1.048386" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.55078125" bitmapName="heffect_8_0" scaleX="-1.072571" scaleY="-1.072571" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.3984375" bitmapName="heffect_8_0" scaleX="-1.096771" scaleY="-1.096771" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.25" bitmapName="heffect_8_0" scaleX="-1.120956" scaleY="-1.120956" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.1015625" bitmapName="heffect_8_0" scaleX="-1.145142" scaleY="-1.145142" rotation="179.999985" position="2.550000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+    </action>
+</animation>

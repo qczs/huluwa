@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="9" actionName="mobingchuxian_0">
+        <frameInfo frame="0">
+            <frameData alpha="0.01171875" bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.51171875" bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.671875" bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.33984375" bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.01171875" bitmapName="diguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.050000,14.350000" />
+        </frameInfo>
+    </action>
+</animation>

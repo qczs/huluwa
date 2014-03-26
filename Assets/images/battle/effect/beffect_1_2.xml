@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="18" actionName="beffect_1_2">
+        <frameInfo frame="0">
+            <frameData bitmapName="beffect_1_21" scaleX="-0.189194" scaleY="-0.189194" rotation="179.999985" position="-13.600000,-71.550003" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="beffect_1_21" scaleX="-0.391891" scaleY="-0.391891" rotation="179.999985" position="-22.700001,-86.650002" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="beffect_1_21" scaleX="-0.594604" scaleY="-0.594604" rotation="179.999985" position="-31.799999,-101.800003" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="beffect_1_21" scaleX="-0.797302" scaleY="-0.797302" rotation="179.999985" position="-40.900002,-117.050003" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="beffect_1_21" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-50.000000,-132.250000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="beffect_1_22" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.150000,-59.750000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.5" bitmapName="beffect_1_22" scaleX="-0.739639" scaleY="-0.739639" rotation="179.999985" position="-1.600000,-59.000000" />
+        </frameInfo>
+        <frameInfo frame="7" />
+        <frameInfo frame="8" />
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+    </action>
+</animation>

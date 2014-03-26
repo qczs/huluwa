@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="9" actionName="qianghuachenggong_0">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData bitmapName="guangxian_01" scaleX="-0.348251" scaleY="-0.348251" rotation="179.999985" position="-9.950000,1.000000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="guangxian_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-9.950000,1.000000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="guangxian_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.550000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="guangxian_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.050000,2.500000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="guangxian_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="5.550000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="8" />
+    </action>
+</animation>

@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="29" actionName="new_1">
+        <frameInfo frame="0">
+            <frameData alpha="0" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.350000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.400000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.01953125" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.500000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.05078125" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.700000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.078125" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.950000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.12890625" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-14.300000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.1796875" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-14.700000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.25" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-15.200000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.44921875" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-16.650000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.62109375" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-17.900000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.75" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-18.950001" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.859375" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-19.750000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData alpha="0.94140625" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.299999" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.98046875" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.650000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.750000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.700001" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.98046875" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.600000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.94921875" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.400000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.921875" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-20.150000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.87109375" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-19.799999" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.8203125" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-19.400000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.75" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-18.900000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData alpha="0.55078125" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-17.450001" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData alpha="0.37890625" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-16.200001" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData alpha="0.25" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-15.150000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData alpha="0.140625" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-14.350000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData alpha="0.05859375" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.800000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData alpha="0.01953125" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.450000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData alpha="0" bitmapName="NEWxin" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.900000,-13.350000" />
+        </frameInfo>
+    </action>
+</animation>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="29" actionName="meffect_48_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="juguang001" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-37.700001,11.550000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="juguang001" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-37.700001,11.550000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="juguang002" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="8.300000,14.550000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="juguang002" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="8.300000,14.550000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="juguang003" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="12.300000,-22.450001" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="juguang003" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="12.300000,-22.450001" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="juguang004" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="34.799999,-5.950000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="juguang004" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="34.799999,-5.950000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="juguang005" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="25.799999,10.550000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="juguang005" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="25.799999,10.550000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="juguang006" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="17.799999,22.549999" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="juguang006" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="17.799999,22.549999" />
+        </frameInfo>
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+        <frameInfo frame="23" />
+        <frameInfo frame="24" />
+        <frameInfo frame="25" />
+        <frameInfo frame="26" />
+        <frameInfo frame="27" />
+        <frameInfo frame="28" />
+    </action>
+</animation>

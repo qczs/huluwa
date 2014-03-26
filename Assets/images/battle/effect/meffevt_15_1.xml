@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="23" actionName="meffevt_15_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData bitmapName="meffevt_15_1" scaleX="-0.239655" scaleY="-0.239655" rotation="179.999985" position="2.000000,-11.350000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffevt_15_1" scaleX="-0.491119" scaleY="-0.491119" rotation="179.999985" position="1.650000,-21.549999" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffevt_15_1" scaleX="-0.742615" scaleY="-0.742615" rotation="179.999985" position="1.350000,-31.600000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffevt_15_1" scaleX="-0.994095" scaleY="-0.994095" rotation="179.999985" position="1.050000,-41.750000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffevt_15_1" scaleX="-1.245544" scaleY="-1.245544" rotation="179.999985" position="0.700000,-51.950001" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffevt_15_1" scaleX="-1.497040" scaleY="-1.497040" rotation="179.999985" position="0.350000,-62.099998" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffevt_15_1" scaleX="-1.748535" scaleY="-1.748535" rotation="179.999985" position="0.050000,-72.199997" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffevt_15_1" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.350000,-82.300003" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.87109375" bitmapName="meffevt_15_1" scaleX="-2.034576" scaleY="-2.034576" rotation="179.999985" position="-0.350000,-83.449997" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData alpha="0.73828125" bitmapName="meffevt_15_1" scaleX="-2.069153" scaleY="-2.069153" rotation="179.999985" position="-0.350000,-84.599998" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.609375" bitmapName="meffevt_15_1" scaleX="-2.103729" scaleY="-2.103729" rotation="179.999985" position="-0.350000,-85.750000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.48828125" bitmapName="meffevt_15_1" scaleX="-2.138306" scaleY="-2.138306" rotation="179.999985" position="-0.350000,-86.849998" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData alpha="0.359375" bitmapName="meffevt_15_1" scaleX="-2.172852" scaleY="-2.172852" rotation="179.999985" position="-0.350000,-88.000000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.23046875" bitmapName="meffevt_15_1" scaleX="-2.207428" scaleY="-2.207428" rotation="179.999985" position="-0.350000,-89.150002" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.1015625" bitmapName="meffevt_15_1" scaleX="-2.242004" scaleY="-2.242004" rotation="179.999985" position="-0.350000,-90.300003" />
+        </frameInfo>
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+    </action>
+</animation>

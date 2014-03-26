@@ -1,0 +1,660 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="334" actionName="kaichang_2">
+        <frameInfo frame="0">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.05" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-47.000000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.0703125" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-43.450001" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.140625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-39.849998" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData alpha="0.2109375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-36.299999" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.2890625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-32.700001" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.359375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-29.150000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData alpha="0.4296875" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-25.549999" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.5" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-22.000000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.5703125" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-18.450001" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.640625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-14.850000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.7109375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-11.300000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.7890625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-7.700000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.859375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-4.150000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData alpha="0.9296875" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData alpha="0.9296875" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,6.350000" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData alpha="0.87109375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,9.650000" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData alpha="0.80078125" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,13.000000" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData alpha="0.73046875" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,16.350000" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData alpha="0.671875" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,19.650000" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData alpha="0.6015625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,23.000000" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData alpha="0.5390625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,26.350000" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData alpha="0.4609375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,29.650000" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData alpha="0.3984375" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,33.000000" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData alpha="0.328125" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,36.349998" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData alpha="0.26953125" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,39.650002" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData alpha="0.19921875" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,43.000000" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData alpha="0.12890625" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,46.349998" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData alpha="0.0703125" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,49.650002" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData alpha="0.01" bitmapName="xuzhang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,53.000000" />
+        </frameInfo>
+        <frameInfo frame="69" />
+        <frameInfo frame="70" />
+        <frameInfo frame="71" />
+        <frameInfo frame="72" />
+        <frameInfo frame="73" />
+        <frameInfo frame="74" />
+        <frameInfo frame="75" />
+        <frameInfo frame="76" />
+        <frameInfo frame="77" />
+        <frameInfo frame="78" />
+        <frameInfo frame="79" />
+        <frameInfo frame="80">
+            <frameData alpha="0" bitmapName="zhuren" scaleX="-0.289459" scaleY="-0.289459" rotation="179.999985" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData alpha="0.25" bitmapName="zhuren" scaleX="-0.600083" scaleY="-0.600083" rotation="176.437012" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData alpha="0.5" bitmapName="zhuren" scaleX="-0.910563" scaleY="-0.910563" rotation="172.685043" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData alpha="0.75" bitmapName="zhuren" scaleX="-1.220925" scaleY="-1.220925" rotation="168.931061" position="-5.500000,2.400000" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="zhuren" scaleX="-1.532412" scaleY="-1.532412" rotation="170.699753" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="94">
+            <frameData bitmapName="zhuren" scaleX="-0.567316" scaleY="-0.567316" rotation="165.001282" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="95">
+            <frameData bitmapName="zhuren" scaleX="-0.567316" scaleY="-0.567316" rotation="165.001282" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="96">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="97">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="98">
+            <frameData bitmapName="zhuren" scaleX="-1.532412" scaleY="-1.532412" rotation="170.699753" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="99">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="100">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="101">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="102">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="103">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="104">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="105">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="106">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="107">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="108">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="109">
+            <frameData bitmapName="zhuren" scaleX="-1.532418" scaleY="-1.532418" rotation="165.001068" position="-5.500000,2.450000" />
+        </frameInfo>
+        <frameInfo frame="110">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.399341" scaleY="-1.399341" rotation="170.547531" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="111">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.399341" scaleY="-1.399341" rotation="170.547531" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="112">
+            <frameData bitmapName="kuailaijiuwo" scaleX="1.190573" scaleY="1.190573" rotation="5.546941" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="113">
+            <frameData bitmapName="kuailaijiuwo" scaleX="1.190573" scaleY="1.190573" rotation="5.546941" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="114">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-0.999999" scaleY="-0.999999" rotation="174.009094" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="115">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-0.999999" scaleY="-0.999999" rotation="174.009094" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="116">
+            <frameData bitmapName="kuailaijiuwo" scaleX="0.999998" scaleY="0.999998" rotation="8.482486" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="117">
+            <frameData bitmapName="kuailaijiuwo" scaleX="0.999998" scaleY="0.999998" rotation="8.482486" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="118">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="119">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="120">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="121">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="122">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="123">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="124">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="125">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="126">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="127">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="128">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="129">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="130">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="131">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="132">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="133">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="134">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="135">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="136">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="137">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="138">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="139">
+            <frameData bitmapName="kuailaijiuwo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.900000,3.000000" />
+        </frameInfo>
+        <frameInfo frame="140" />
+        <frameInfo frame="141" />
+        <frameInfo frame="142" />
+        <frameInfo frame="143" />
+        <frameInfo frame="144" />
+        <frameInfo frame="145">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="146">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="147">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="148">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="149">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="150">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="151">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="152">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="153">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="154">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="155">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="156">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="157">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="158">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="159">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="160">
+            <frameData bitmapName="shishui" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-3.050000,1.700000" />
+        </frameInfo>
+        <frameInfo frame="161">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="162">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="163">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="164">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="165">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="166">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="167">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="168">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="169">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="170">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="171">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="172">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="173">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="174">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="175">
+            <frameData bitmapName="shuizaijiaowo" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.750000,2.200000" />
+        </frameInfo>
+        <frameInfo frame="176" />
+        <frameInfo frame="177" />
+        <frameInfo frame="178" />
+        <frameInfo frame="179" />
+        <frameInfo frame="180" />
+        <frameInfo frame="181" />
+        <frameInfo frame="182" />
+        <frameInfo frame="183" />
+        <frameInfo frame="184" />
+        <frameInfo frame="185" />
+        <frameInfo frame="186" />
+        <frameInfo frame="187" />
+        <frameInfo frame="188" />
+        <frameInfo frame="189" />
+        <frameInfo frame="190" />
+        <frameInfo frame="191" />
+        <frameInfo frame="192" />
+        <frameInfo frame="193" />
+        <frameInfo frame="194" />
+        <frameInfo frame="195" />
+        <frameInfo frame="196" />
+        <frameInfo frame="197" />
+        <frameInfo frame="198" />
+        <frameInfo frame="199" />
+        <frameInfo frame="200" />
+        <frameInfo frame="201" />
+        <frameInfo frame="202" />
+        <frameInfo frame="203" />
+        <frameInfo frame="204" />
+        <frameInfo frame="205" />
+        <frameInfo frame="206" />
+        <frameInfo frame="207" />
+        <frameInfo frame="208" />
+        <frameInfo frame="209" />
+        <frameInfo frame="210" />
+        <frameInfo frame="211" />
+        <frameInfo frame="212" />
+        <frameInfo frame="213" />
+        <frameInfo frame="214" />
+        <frameInfo frame="215" />
+        <frameInfo frame="216" />
+        <frameInfo frame="217" />
+        <frameInfo frame="218" />
+        <frameInfo frame="219" />
+        <frameInfo frame="220" />
+        <frameInfo frame="221" />
+        <frameInfo frame="222" />
+        <frameInfo frame="223" />
+        <frameInfo frame="224" />
+        <frameInfo frame="225" />
+        <frameInfo frame="226" />
+        <frameInfo frame="227" />
+        <frameInfo frame="228" />
+        <frameInfo frame="229" />
+        <frameInfo frame="230" />
+        <frameInfo frame="231" />
+        <frameInfo frame="232" />
+        <frameInfo frame="233" />
+        <frameInfo frame="234" />
+        <frameInfo frame="235" />
+        <frameInfo frame="236" />
+        <frameInfo frame="237" />
+        <frameInfo frame="238" />
+        <frameInfo frame="239" />
+        <frameInfo frame="240" />
+        <frameInfo frame="241" />
+        <frameInfo frame="242" />
+        <frameInfo frame="243" />
+        <frameInfo frame="244" />
+        <frameInfo frame="245" />
+        <frameInfo frame="246" />
+        <frameInfo frame="247" />
+        <frameInfo frame="248" />
+        <frameInfo frame="249" />
+        <frameInfo frame="250" />
+        <frameInfo frame="251" />
+        <frameInfo frame="252" />
+        <frameInfo frame="253" />
+        <frameInfo frame="254" />
+        <frameInfo frame="255" />
+        <frameInfo frame="256" />
+        <frameInfo frame="257" />
+        <frameInfo frame="258" />
+        <frameInfo frame="259" />
+        <frameInfo frame="260" />
+        <frameInfo frame="261" />
+        <frameInfo frame="262" />
+        <frameInfo frame="263" />
+        <frameInfo frame="264" />
+        <frameInfo frame="265" />
+        <frameInfo frame="266" />
+        <frameInfo frame="267" />
+        <frameInfo frame="268" />
+        <frameInfo frame="269" />
+        <frameInfo frame="270" />
+        <frameInfo frame="271" />
+        <frameInfo frame="272" />
+        <frameInfo frame="273" />
+        <frameInfo frame="274" />
+        <frameInfo frame="275" />
+        <frameInfo frame="276" />
+        <frameInfo frame="277" />
+        <frameInfo frame="278" />
+        <frameInfo frame="279" />
+        <frameInfo frame="280" />
+        <frameInfo frame="281" />
+        <frameInfo frame="282" />
+        <frameInfo frame="283" />
+        <frameInfo frame="284" />
+        <frameInfo frame="285" />
+        <frameInfo frame="286" />
+        <frameInfo frame="287" />
+        <frameInfo frame="288" />
+        <frameInfo frame="289" />
+        <frameInfo frame="290" />
+        <frameInfo frame="291" />
+        <frameInfo frame="292" />
+        <frameInfo frame="293" />
+        <frameInfo frame="294" />
+        <frameInfo frame="295" />
+        <frameInfo frame="296" />
+        <frameInfo frame="297" />
+        <frameInfo frame="298" />
+        <frameInfo frame="299" />
+        <frameInfo frame="300" />
+        <frameInfo frame="301" />
+        <frameInfo frame="302" />
+        <frameInfo frame="303" />
+        <frameInfo frame="304" />
+        <frameInfo frame="305" />
+        <frameInfo frame="306" />
+        <frameInfo frame="307" />
+        <frameInfo frame="308" />
+        <frameInfo frame="309" />
+        <frameInfo frame="310" />
+        <frameInfo frame="311" />
+        <frameInfo frame="312" />
+        <frameInfo frame="313" />
+        <frameInfo frame="314" />
+        <frameInfo frame="315" />
+        <frameInfo frame="316" />
+        <frameInfo frame="317" />
+        <frameInfo frame="318" />
+        <frameInfo frame="319" />
+        <frameInfo frame="320" />
+        <frameInfo frame="321" />
+        <frameInfo frame="322" />
+        <frameInfo frame="323" />
+        <frameInfo frame="324" />
+        <frameInfo frame="325" />
+        <frameInfo frame="326" />
+        <frameInfo frame="327" />
+        <frameInfo frame="328" />
+        <frameInfo frame="329" />
+        <frameInfo frame="330" />
+        <frameInfo frame="331" />
+        <frameInfo frame="332" />
+        <frameInfo frame="333" />
+    </action>
+</animation>

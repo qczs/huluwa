@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="8" actionName="heffect_11_1">
+        <frameInfo frame="0">
+            <frameData bitmapName="dajizhong_lizi1" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-8.700000,32.400002" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="dajizhong_lizi1" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-8.700000,32.400002" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="dajizhong_lizi2" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-18.200001,56.950001" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="dajizhong_lizi2" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-18.200001,56.950001" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="dajizhong_lizi3" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-21.700001,68.449997" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="dajizhong_lizi3" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-21.700001,68.449997" />
+        </frameInfo>
+        <frameInfo frame="6" />
+        <frameInfo frame="7" />
+    </action>
+</animation>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="23" actionName="meffect_21_0">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData alpha="0.5" bitmapName="meffect_21_0" scaleX="-1.429782" scaleY="-1.186159" rotation="140.320633" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="4" isKeyFrame="1">
+            <frameData alpha="0.66796875" bitmapName="meffect_21_0" scaleX="-1.634614" scaleY="-1.356105" rotation="154.534348" position="3.000000,31.250000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.83203125" bitmapName="meffect_21_0" scaleX="-1.831558" scaleY="-1.519487" rotation="167.615799" position="3.050000,31.350000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_21_0" scaleX="-2.000000" scaleY="-1.659210" rotation="179.999985" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_21_0" scaleX="1.991286" scaleY="1.651964" rotation="7.331414" position="2.900000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_21_0" scaleX="1.967945" scaleY="1.632621" rotation="14.939199" position="3.000000,31.150000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_21_0" scaleX="1.931715" scaleY="1.602563" rotation="22.777784" position="2.950000,31.150000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffect_21_0" scaleX="1.885553" scaleY="1.564283" rotation="30.959940" position="3.050000,31.150000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffect_21_0" scaleX="1.833367" scaleY="1.520982" rotation="39.579300" position="3.050000,31.150000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="meffect_21_0" scaleX="1.779951" scaleY="1.476640" rotation="48.712929" position="3.000000,31.049999" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="meffect_21_0" scaleX="1.732830" scaleY="1.437551" rotation="58.399570" position="3.000000,31.150000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.8984375" bitmapName="meffect_21_0" scaleX="1.691224" scaleY="1.403086" rotation="68.580849" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData alpha="0.80078125" bitmapName="meffect_21_0" scaleX="1.665898" scaleY="1.381992" rotation="79.176270" position="3.000000,31.150000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.69921875" bitmapName="meffect_21_0" scaleX="1.657822" scaleY="1.420990" rotation="89.992622" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.6015625" bitmapName="meffect_21_0" scaleX="1.666056" scaleY="1.382191" rotation="100.583969" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.5" bitmapName="meffect_21_0" scaleX="1.691595" scaleY="1.403358" rotation="111.186783" position="3.050000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.3984375" bitmapName="meffect_21_0" scaleX="1.731277" scaleY="1.436281" rotation="121.390984" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.30078125" bitmapName="meffect_21_0" scaleX="1.780485" scaleY="1.477089" rotation="131.081497" position="3.050000,31.250000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.19921875" bitmapName="meffect_21_0" scaleX="1.837520" scaleY="1.524427" rotation="140.320892" position="3.000000,31.200001" />
+        </frameInfo>
+        <frameInfo frame="22" />
+    </action>
+</animation>

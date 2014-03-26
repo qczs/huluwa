@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="21" actionName="duobaoshanguang_0">
+        <frameInfo frame="0">
+            <frameData alpha="0.6015625" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.640625" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.6796875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.71875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.76171875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.80078125" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.83984375" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.87890625" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.921875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.9609375" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.9609375" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData alpha="0.921875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.87890625" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.83984375" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData alpha="0.80078125" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData alpha="0.76171875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData alpha="0.71875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.6796875" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.640625" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.6015625" bitmapName="duobaoshanguang" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+    </action>
+</animation>

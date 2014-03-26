@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="94" actionName="chenggonglueduo_u_2">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5" />
+        <frameInfo frame="6" />
+        <frameInfo frame="7" />
+        <frameInfo frame="8" />
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-1064.599976" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-1037.250000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-1009.900024" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.300003,-978.000000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.300003,-950.650024" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.300003,-923.299988" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-891.900024" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-864.549988" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-837.200012" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-815.650024" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.449997,-788.250000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.649994,-760.900024" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-736.450012" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-709.049988" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-681.700012" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.300003,-649.849976" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.300003,-622.500000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.300003,-595.200012" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-563.750000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-536.400024" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-509.049988" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.250000,-487.500000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.250000,-460.000000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.250000,-432.500000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-408.200012" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-380.850006" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="jinbi_1" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.500000,-353.549988" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-321.700012" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-294.350006" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-267.049988" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-235.600006" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-208.250000" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-180.899994" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-159.250000" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-130.199997" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="jinbi_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-115.099998" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-95.900002" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-80.750000" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="jinbi_3" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.550003,-65.650002" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-56.250000" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.099998" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-48.950001" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-56.799999" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-64.650002" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-72.500000" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-64.599998" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-56.750000" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-48.849998" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.000000" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-48.200001" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-55.400002" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-48.250000" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.099998" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-49.650002" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="78">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="79">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="80">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="jinbi_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="193.199997,-41.150002" />
+        </frameInfo>
+    </action>
+</animation>

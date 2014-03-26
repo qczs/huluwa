@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="43" actionName="load4_3">
+        <frameInfo frame="0">
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.171875" bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-035.149994" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.328125" bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-037.350006" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.5" bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-039.500000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.671875" bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-041.649994" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.828125" bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-043.850006" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-046.000000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-047.000000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-048.000000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-049.000000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-050.000000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-051.000000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-052.000000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-053.000000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-054.000000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-055.000000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-056.000000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-057.000000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="load4_30" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-137.449997,-058.000000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.859375" bitmapName="load4_30" scaleX="-1.021912" scaleY="-1.021912" rotation="179.999985" position="-137.449997,-057.500000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.7109375" bitmapName="load4_30" scaleX="-1.043823" scaleY="-1.043823" rotation="179.999985" position="-137.449997,-057.000000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.5703125" bitmapName="load4_30" scaleX="-1.065765" scaleY="-1.065765" rotation="179.999985" position="-137.449997,-056.500000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData alpha="0.4296875" bitmapName="load4_30" scaleX="-1.087677" scaleY="-1.087677" rotation="179.999985" position="-137.449997,-055.949997" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData alpha="0.2890625" bitmapName="load4_30" scaleX="-1.109604" scaleY="-1.109604" rotation="179.999985" position="-137.449997,-055.550003" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData alpha="0.140625" bitmapName="load4_30" scaleX="-1.131515" scaleY="-1.131515" rotation="179.999985" position="-137.449997,-055.000000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData alpha="0.001" bitmapName="load4_30" scaleX="-1.153442" scaleY="-1.153442" rotation="179.999985" position="-137.449997,-054.500000" />
+        </frameInfo>
+        <frameInfo frame="26" />
+        <frameInfo frame="27" />
+        <frameInfo frame="28" />
+        <frameInfo frame="29" />
+        <frameInfo frame="30" />
+        <frameInfo frame="31" />
+        <frameInfo frame="32" />
+        <frameInfo frame="33" />
+        <frameInfo frame="34" />
+        <frameInfo frame="35" />
+        <frameInfo frame="36" />
+        <frameInfo frame="37" />
+        <frameInfo frame="38" />
+        <frameInfo frame="39" />
+        <frameInfo frame="40" />
+        <frameInfo frame="41" />
+        <frameInfo frame="42" />
+    </action>
+</animation>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="15" actionName="meffect_4_5">
+        <frameInfo frame="0">
+            <frameData bitmapName="meffect_4_51" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="294.350006,-779.450012" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="meffect_4_51" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="294.350006,-779.450012" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="meffect_4_52" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="169.350006,-453.450012" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="meffect_4_52" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="169.350006,-453.450012" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_4_53" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="35.349998,-94.449997" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffect_4_53" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="35.349998,-94.449997" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_4_53" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="35.349998,-94.449997" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_4_54" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="35.849998,-99.949997" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_4_54" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="35.849998,-99.949997" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_4_55" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.349998,-101.449997" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffect_4_55" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.349998,-101.449997" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffect_4_56" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.349998,-101.949997" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData alpha="0.76953125" bitmapName="meffect_4_56" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.349998,-101.949997" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData alpha="0.55078125" bitmapName="meffect_4_56" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.349998,-101.949997" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData alpha="0.3203125" bitmapName="meffect_4_56" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.349998,-101.949997" />
+        </frameInfo>
+    </action>
+</animation>

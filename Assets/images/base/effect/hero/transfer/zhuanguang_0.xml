@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="33" actionName="zhuanguang_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="zhuanguang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="zhuanguang" scaleX="0.999382" scaleY="0.999382" rotation="11.069411" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="zhuanguang" scaleX="0.998854" scaleY="0.998854" rotation="22.339245" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="zhuanguang" scaleX="0.998497" scaleY="0.998497" rotation="33.619400" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="zhuanguang" scaleX="0.998352" scaleY="0.998352" rotation="44.905262" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="zhuanguang" scaleX="0.998485" scaleY="0.998485" rotation="56.190697" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="zhuanguang" scaleX="0.998833" scaleY="0.998833" rotation="67.470901" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="zhuanguang" scaleX="0.999365" scaleY="0.999365" rotation="78.741364" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="zhuanguang" scaleX="1.000000" scaleY="1.000000" rotation="89.994759" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="zhuanguang" scaleX="0.999379" scaleY="0.999379" rotation="101.068550" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="zhuanguang" scaleX="0.998848" scaleY="0.998848" rotation="112.338432" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="zhuanguang" scaleX="0.998488" scaleY="0.998488" rotation="123.618668" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="zhuanguang" scaleX="0.998352" scaleY="0.998352" rotation="134.905258" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="zhuanguang" scaleX="0.998477" scaleY="0.998477" rotation="146.191437" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="zhuanguang" scaleX="0.998842" scaleY="0.998842" rotation="157.472046" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="zhuanguang" scaleX="0.999362" scaleY="0.999362" rotation="168.742218" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="zhuanguang" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="zhuanguang" scaleX="-0.999362" scaleY="-0.999362" rotation="11.257777" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998842" scaleY="-0.998842" rotation="22.527956" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998477" scaleY="-0.998477" rotation="33.808578" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998352" scaleY="-0.998352" rotation="45.094738" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998488" scaleY="-0.998488" rotation="56.381329" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998848" scaleY="-0.998848" rotation="67.661575" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="zhuanguang" scaleX="-0.999379" scaleY="-0.999379" rotation="78.931450" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="zhuanguang" scaleX="-1.000000" scaleY="-1.000000" rotation="90.005249" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="zhuanguang" scaleX="-0.999365" scaleY="-0.999365" rotation="101.258644" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998833" scaleY="-0.998833" rotation="112.529099" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998485" scaleY="-0.998485" rotation="123.809303" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998352" scaleY="-0.998352" rotation="135.094742" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998497" scaleY="-0.998497" rotation="146.380600" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="zhuanguang" scaleX="-0.998854" scaleY="-0.998854" rotation="157.660751" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="zhuanguang" scaleX="-0.999382" scaleY="-0.999382" rotation="168.930603" position="0.000000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="zhuanguang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.000000,-0.100000" />
+        </frameInfo>
+    </action>
+</animation>

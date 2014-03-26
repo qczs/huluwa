@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="13" actionName="heffect_5_2">
+        <frameInfo frame="0">
+            <frameData alpha="0.30078125" bitmapName="heffect_5_2" scaleX="-0.449295" scaleY="-0.449295" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.5390625" bitmapName="heffect_5_2" scaleX="-0.632858" scaleY="-0.632858" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.76953125" bitmapName="heffect_5_2" scaleX="-0.816437" scaleY="-0.816437" rotation="179.999985" position="0.400000,0.250000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="heffect_5_2" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.8203125" bitmapName="heffect_5_2" scaleX="-1.030914" scaleY="-1.030914" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.640625" bitmapName="heffect_5_2" scaleX="-1.061829" scaleY="-1.061829" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.4609375" bitmapName="heffect_5_2" scaleX="-1.092758" scaleY="-1.092758" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.28125" bitmapName="heffect_5_2" scaleX="-1.123688" scaleY="-1.123688" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.1015625" bitmapName="heffect_5_2" scaleX="-1.154602" scaleY="-1.154602" rotation="179.999985" position="0.400000,0.300000" />
+        </frameInfo>
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+    </action>
+</animation>

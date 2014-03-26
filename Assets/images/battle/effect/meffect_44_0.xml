@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="23" actionName="meffect_44_0">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData alpha="0.19921875" bitmapName="diquan_01" scaleX="-0.936188" scaleY="-1.000000" rotation="179.999985" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData alpha="0.3984375" bitmapName="diquan_01" scaleX="0.920791" scaleY="0.983541" rotation="20.057405" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.6015625" bitmapName="diquan_01" scaleX="0.884257" scaleY="0.944505" rotation="41.526058" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.80078125" bitmapName="diquan_01" scaleX="0.846931" scaleY="0.904641" rotation="64.972878" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="diquan_01" scaleX="0.831787" scaleY="0.712960" rotation="89.992638" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="diquan_01" scaleX="0.841326" scaleY="0.898664" rotation="109.899384" position="4.100000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="diquan_01" scaleX="0.867714" scaleY="0.926834" rotation="129.146347" position="4.100000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="diquan_01" scaleX="0.899961" scaleY="0.961319" rotation="147.093475" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="diquan_01" scaleX="0.925805" scaleY="0.988925" rotation="163.880005" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="diquan_01" scaleX="-0.936188" scaleY="-1.000000" rotation="0.000000" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="diquan_01" scaleX="-0.925815" scaleY="-0.988919" rotation="16.118822" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="diquan_01" scaleX="-0.899974" scaleY="-0.961313" rotation="32.906010" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="diquan_01" scaleX="-0.867702" scaleY="-0.926821" rotation="50.853012" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="diquan_01" scaleX="-0.841312" scaleY="-0.898648" rotation="70.100258" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="diquan_01" scaleX="-0.831787" scaleY="-0.712960" rotation="90.007355" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.80078125" bitmapName="diquan_01" scaleX="-0.846951" scaleY="-0.904624" rotation="115.027626" position="4.250000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.6015625" bitmapName="diquan_01" scaleX="-0.884257" scaleY="-0.944505" rotation="138.473938" position="4.250000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.3984375" bitmapName="diquan_01" scaleX="-0.920786" scaleY="-0.983536" rotation="159.943481" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.19921875" bitmapName="diquan_01" scaleX="-0.936188" scaleY="-1.000000" rotation="179.999985" position="4.150000,32.599998" />
+        </frameInfo>
+        <frameInfo frame="22" />
+    </action>
+</animation>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="20" actionName="chongwukaiqi_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5">
+            <frameData bitmapName="chongwukaiqi_11" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="14.100000,3.450000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="chongwukaiqi_11" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="14.100000,3.450000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="chongwukaiqi_12" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="17.100000,-5.550000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="chongwukaiqi_12" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="17.100000,-5.550000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="chongwukaiqi_13" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="23.100000,-30.549999" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="chongwukaiqi_13" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="23.100000,-30.549999" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="chongwukaiqi_14" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-38.549999" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="chongwukaiqi_14" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-38.549999" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="chongwukaiqi_14" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-38.549999" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="chongwukaiqi_14" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-38.549999" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="chongwukaiqi_14" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-38.549999" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="chongwukaiqi_14" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-38.549999" />
+        </frameInfo>
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+    </action>
+</animation>

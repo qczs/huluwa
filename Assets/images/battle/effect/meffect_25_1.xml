@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="13" actionName="meffect_25_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5" />
+        <frameInfo frame="6" isKeyFrame="1">
+            <frameData bitmapName="iceShatter_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.650000,-10.150000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="iceShatter_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.150000,-23.150000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="iceShatter_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.150000,-33.650002" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="iceShatter_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.150000,-41.150002" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="iceShatter_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.650000,-46.650002" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="iceShatter_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="39.650002,-42.150002" />
+        </frameInfo>
+        <frameInfo frame="12" />
+    </action>
+</animation>

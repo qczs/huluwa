@@ -1,0 +1,282 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="94" actionName="chenggonglueduo_d_9">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="105.250000,-1001.049988" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="107.400002,-940.799988" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="109.599998,-880.500000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="111.849998,-820.200012" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="114.050003,-759.900024" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="116.250000,-699.599976" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="118.449997,-639.299988" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="120.650002,-579.000000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="122.900002,-518.650024" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="125.099998,-458.350006" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="127.300003,-398.049988" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="129.500000,-337.750000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="131.699997,-277.450012" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="133.899994,-217.149994" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="136.149994,-156.850006" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="138.350006,-96.550003" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.300003,-104.250000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.050003,-172.350006" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="139.750000,-240.399994" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="139.449997,-308.500000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="139.699997,-240.399994" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.000000,-172.350006" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.250000,-104.300003" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-71.599998" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-106.949997" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-142.350006" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-107.000000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-71.650002" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-60.500000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-84.849998" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-60.549999" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="78">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="79">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="80">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="chenggonglueduo_d_008" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="140.600006,-36.200001" />
+        </frameInfo>
+    </action>
+</animation>

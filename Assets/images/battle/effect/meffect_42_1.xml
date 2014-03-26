@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="12" actionName="meffect_42_1">
+        <frameInfo frame="0">
+            <frameData alpha="0.1015625" bitmapName="gaoliang" scaleX="-0.223999" scaleY="-0.223999" rotation="179.999985" position="-9.550000,-28.200001" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.328125" bitmapName="gaoliang" scaleX="-0.417999" scaleY="-0.417999" rotation="179.999985" position="-10.050000,-42.099998" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.55078125" bitmapName="gaoliang" scaleX="-0.612000" scaleY="-0.612000" rotation="179.999985" position="-10.550000,-56.049999" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.78125" bitmapName="gaoliang" scaleX="-0.806000" scaleY="-0.806000" rotation="179.999985" position="-11.100000,-69.949997" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="gaoliang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-11.650000,-83.750000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="gaoliang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-11.650000,-83.750000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="gaoliang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-11.650000,-83.750000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="gaoliang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-11.650000,-83.750000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.78125" bitmapName="gaoliang" scaleX="-1.030029" scaleY="-1.030029" rotation="179.999985" position="-11.750000,-85.900002" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.55078125" bitmapName="gaoliang" scaleX="-1.060089" scaleY="-1.060089" rotation="179.999985" position="-11.800000,-88.050003" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.328125" bitmapName="gaoliang" scaleX="-1.090134" scaleY="-1.090134" rotation="179.999985" position="-11.900000,-90.199997" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.1015625" bitmapName="gaoliang" scaleX="-1.120178" scaleY="-1.120178" rotation="179.999985" position="-11.950000,-92.349998" />
+        </frameInfo>
+    </action>
+</animation>

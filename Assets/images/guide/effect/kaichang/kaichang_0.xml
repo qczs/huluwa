@@ -1,0 +1,1008 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="334" actionName="kaichang_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="78">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="79">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="80">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="94">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="95">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="96">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="97">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="98">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="99">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="100">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="101">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="102">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="103">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="104">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="105">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="106">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="107">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="108">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="109">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="110">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="111">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="112">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="113">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="114">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="115">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="116">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="117">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="118">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="119">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="120">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="121">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="122">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="123">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="124">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="125">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="126">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="127">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="128">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="129">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="130">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="131">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="132">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="133">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="134">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="135">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="136">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="137">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="138">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="139">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="140">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="141">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="142">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="143">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="144">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="145">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="146">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="147">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="148">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="149">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="150">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="151">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="152">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="153">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="154">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="155">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="156">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="157">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="158">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="159">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="160">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="161">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="162">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="163">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="164">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="165">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="166">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="167">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="168">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="169">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="170">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="171">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="172">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="173">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="174">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="175">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="176">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="177">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="178">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="179">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="180">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="181">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="182">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,337.700012" />
+        </frameInfo>
+        <frameInfo frame="183">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,341.799988" />
+        </frameInfo>
+        <frameInfo frame="184">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,345.950012" />
+        </frameInfo>
+        <frameInfo frame="185">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,350.100006" />
+        </frameInfo>
+        <frameInfo frame="186">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,354.250000" />
+        </frameInfo>
+        <frameInfo frame="187">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,358.350006" />
+        </frameInfo>
+        <frameInfo frame="188">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,362.500000" />
+        </frameInfo>
+        <frameInfo frame="189">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,366.649994" />
+        </frameInfo>
+        <frameInfo frame="190">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,370.799988" />
+        </frameInfo>
+        <frameInfo frame="191">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,374.899994" />
+        </frameInfo>
+        <frameInfo frame="192">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,379.049988" />
+        </frameInfo>
+        <frameInfo frame="193">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,383.200012" />
+        </frameInfo>
+        <frameInfo frame="194">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,387.299988" />
+        </frameInfo>
+        <frameInfo frame="195">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,391.450012" />
+        </frameInfo>
+        <frameInfo frame="196">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,395.600006" />
+        </frameInfo>
+        <frameInfo frame="197">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,399.750000" />
+        </frameInfo>
+        <frameInfo frame="198">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,403.850006" />
+        </frameInfo>
+        <frameInfo frame="199">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,408.000000" />
+        </frameInfo>
+        <frameInfo frame="200">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,412.149994" />
+        </frameInfo>
+        <frameInfo frame="201">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,416.299988" />
+        </frameInfo>
+        <frameInfo frame="202">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,420.399994" />
+        </frameInfo>
+        <frameInfo frame="203">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="204">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="205">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="206">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="207">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="208">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="209">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="210">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="211">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="212">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="213">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="214">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="215">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="216">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="217">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="218">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.549988" />
+        </frameInfo>
+        <frameInfo frame="219">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,416.950012" />
+        </frameInfo>
+        <frameInfo frame="220">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,409.399994" />
+        </frameInfo>
+        <frameInfo frame="221">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,401.799988" />
+        </frameInfo>
+        <frameInfo frame="222">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,394.200012" />
+        </frameInfo>
+        <frameInfo frame="223">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,386.649994" />
+        </frameInfo>
+        <frameInfo frame="224">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,379.049988" />
+        </frameInfo>
+        <frameInfo frame="225">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,371.450012" />
+        </frameInfo>
+        <frameInfo frame="226">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,363.899994" />
+        </frameInfo>
+        <frameInfo frame="227">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,356.299988" />
+        </frameInfo>
+        <frameInfo frame="228">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,348.700012" />
+        </frameInfo>
+        <frameInfo frame="229">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,341.149994" />
+        </frameInfo>
+        <frameInfo frame="230">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="231">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="232">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="233">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="234">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="235">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="236">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="237">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="238">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="239">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="240">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="241">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="242">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="243">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="244">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="245">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="246">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="247">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="248">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="249">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="250">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="251">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="252">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="253">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="254">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="255">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="256">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="257">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="258">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="259">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="260">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="261">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="262">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="263">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="264">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="265">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="266">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="267">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="268">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="269">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="270">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,333.549988" />
+        </frameInfo>
+        <frameInfo frame="271">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,338.350006" />
+        </frameInfo>
+        <frameInfo frame="272">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,343.100006" />
+        </frameInfo>
+        <frameInfo frame="273">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,347.899994" />
+        </frameInfo>
+        <frameInfo frame="274">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,352.700012" />
+        </frameInfo>
+        <frameInfo frame="275">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,357.450012" />
+        </frameInfo>
+        <frameInfo frame="276">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,362.250000" />
+        </frameInfo>
+        <frameInfo frame="277">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,367.049988" />
+        </frameInfo>
+        <frameInfo frame="278">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,371.799988" />
+        </frameInfo>
+        <frameInfo frame="279">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,376.600006" />
+        </frameInfo>
+        <frameInfo frame="280">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,381.399994" />
+        </frameInfo>
+        <frameInfo frame="281">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,386.149994" />
+        </frameInfo>
+        <frameInfo frame="282">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,390.950012" />
+        </frameInfo>
+        <frameInfo frame="283">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,395.700012" />
+        </frameInfo>
+        <frameInfo frame="284">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,400.500000" />
+        </frameInfo>
+        <frameInfo frame="285">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,405.299988" />
+        </frameInfo>
+        <frameInfo frame="286">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,410.049988" />
+        </frameInfo>
+        <frameInfo frame="287">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,414.850006" />
+        </frameInfo>
+        <frameInfo frame="288">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,419.649994" />
+        </frameInfo>
+        <frameInfo frame="289">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,424.399994" />
+        </frameInfo>
+        <frameInfo frame="290">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,429.200012" />
+        </frameInfo>
+        <frameInfo frame="291">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,434.000000" />
+        </frameInfo>
+        <frameInfo frame="292">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,438.750000" />
+        </frameInfo>
+        <frameInfo frame="293">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="294">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="295">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="296">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="297">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="298">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="299">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="300">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="301">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="302">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="303">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="304">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="305">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="306">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="307">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="308">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,443.549988" />
+        </frameInfo>
+        <frameInfo frame="309">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,461.649994" />
+        </frameInfo>
+        <frameInfo frame="310">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,479.700012" />
+        </frameInfo>
+        <frameInfo frame="311">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,497.799988" />
+        </frameInfo>
+        <frameInfo frame="312">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,515.849976" />
+        </frameInfo>
+        <frameInfo frame="313">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,533.950012" />
+        </frameInfo>
+        <frameInfo frame="314">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,552.049988" />
+        </frameInfo>
+        <frameInfo frame="315">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,570.099976" />
+        </frameInfo>
+        <frameInfo frame="316">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,588.200012" />
+        </frameInfo>
+        <frameInfo frame="317">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,606.250000" />
+        </frameInfo>
+        <frameInfo frame="318">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,624.349976" />
+        </frameInfo>
+        <frameInfo frame="319">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,642.450012" />
+        </frameInfo>
+        <frameInfo frame="320">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,660.500000" />
+        </frameInfo>
+        <frameInfo frame="321">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,678.599976" />
+        </frameInfo>
+        <frameInfo frame="322">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,696.650024" />
+        </frameInfo>
+        <frameInfo frame="323">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,714.750000" />
+        </frameInfo>
+        <frameInfo frame="324">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,732.849976" />
+        </frameInfo>
+        <frameInfo frame="325">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,750.900024" />
+        </frameInfo>
+        <frameInfo frame="326">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,769.000000" />
+        </frameInfo>
+        <frameInfo frame="327">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,787.049988" />
+        </frameInfo>
+        <frameInfo frame="328">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,805.150024" />
+        </frameInfo>
+        <frameInfo frame="329">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,823.250000" />
+        </frameInfo>
+        <frameInfo frame="330">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,841.299988" />
+        </frameInfo>
+        <frameInfo frame="331">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,859.400024" />
+        </frameInfo>
+        <frameInfo frame="332">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,877.450012" />
+        </frameInfo>
+        <frameInfo frame="333">
+            <frameData bitmapName="yanlian" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-4.900000,895.549988" />
+        </frameInfo>
+    </action>
+</animation>

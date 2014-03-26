@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="18" actionName="shanxingdaoguang_u_0">
+        <frameInfo frame="0" isKeyFrame="1">
+            <frameData bitmapName="shanxingdaoguang_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-33.599998,166.050003" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="shanxingdaoguang_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-33.599998,166.050003" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="shanxingdaoguang_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-52.099998,204.550003" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="shanxingdaoguang_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-52.099998,204.550003" />
+        </frameInfo>
+        <frameInfo frame="4" isKeyFrame="1">
+            <frameData bitmapName="shanxingdaoguang_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="69.900002,212.050003" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="shanxingdaoguang_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="69.900002,212.050003" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="shanxingdaoguang_4" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-62.599998,212.050003" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="shanxingdaoguang_4" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-62.599998,212.050003" />
+        </frameInfo>
+        <frameInfo frame="8" isKeyFrame="1">
+            <frameData bitmapName="shanxingdaoguang_5" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.599998,257.049988" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="shanxingdaoguang_5" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.599998,257.049988" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="shanxingdaoguang_6" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="56.900002,224.550003" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="shanxingdaoguang_6" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="56.900002,224.550003" />
+        </frameInfo>
+        <frameInfo frame="12" isKeyFrame="1">
+            <frameData bitmapName="shanxingdaoguang_7" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="32.900002,222.550003" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="shanxingdaoguang_7" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="32.900002,222.550003" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="shanxingdaoguang_8" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="100.900002,321.549988" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="shanxingdaoguang_8" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="100.900002,321.549988" />
+        </frameInfo>
+        <frameInfo frame="16" isKeyFrame="1">
+            <frameData bitmapName="shanxingdaoguang_9" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="136.399994,368.549988" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="shanxingdaoguang_9" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="136.399994,368.549988" />
+        </frameInfo>
+    </action>
+</animation>

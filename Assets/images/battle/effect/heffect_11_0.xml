@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="8" actionName="heffect_11_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="dajizhong_daoguang1" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-14.250000,19.100000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="dajizhong_daoguang1" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-14.250000,19.100000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="dajizhong_daoguang2" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="11.100000,-5.400000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="dajizhong_daoguang2" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="11.100000,-5.400000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="dajizhong_daoguang3" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-17.650000,27.950001" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="dajizhong_daoguang4" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-26.250000,40.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="dajizhong_daoguang5" scaleX="-1.182503" scaleY="-1.182503" rotation="140.003693" position="-19.400000,31.450001" />
+        </frameInfo>
+        <frameInfo frame="7" />
+    </action>
+</animation>

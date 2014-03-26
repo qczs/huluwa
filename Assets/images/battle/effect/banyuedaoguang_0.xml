@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="1" actionName="banyuedaoguang_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="banyuedaoguang" scaleX="-0.889816" scaleY="-0.889816" rotation="179.999985" position="0.350000,-0.100000" />
+        </frameInfo>
+    </action>
+</animation>

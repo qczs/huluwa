@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="34" actionName="zongshanghai_0">
+        <frameInfo frame="0">
+            <frameData alpha="0.001" bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="118.300003,0.650000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.25" bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="89.300003,0.650000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.5" bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="60.299999,0.650000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.75" bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="31.299999,0.650000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="2.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="8.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="hongtiaodi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="hongtiaodi_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="hongtiaodi_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="hongtiaodi_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="hongtiaodi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="14.300000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData alpha="0.75" bitmapName="hongtiaodi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.700000,0.650000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData alpha="0.5" bitmapName="hongtiaodi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-25.700001,0.650000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData alpha="0.25" bitmapName="hongtiaodi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-45.700001,0.650000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData alpha="0" bitmapName="hongtiaodi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-65.699997,0.650000" />
+        </frameInfo>
+    </action>
+</animation>
