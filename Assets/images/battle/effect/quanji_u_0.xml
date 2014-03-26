@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="36" actionName="quanji_u_0">
+        <frameInfo frame="0" isKeyFrame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-1.050000,84.349998" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.849998,-55.549999" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.299999,-110.800003" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-1.050000,84.349998" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.849998,-55.549999" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.299999,-110.800003" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-53.549999,102.000000" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="1.500000,-120.500000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.599998,29.250000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-53.549999,102.000000" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="1.500000,-120.500000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.599998,29.250000" />
+        </frameInfo>
+        <frameInfo frame="4" isKeyFrame="1">
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-51.750000,84.650002" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="14.600000,-250.199997" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="76.400002,-40.700001" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-51.750000,84.650002" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="14.600000,-250.199997" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="76.400002,-40.700001" />
+        </frameInfo>
+        <frameInfo frame="8" isKeyFrame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="67.500000,110.449997" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="5.500000,-88.349998" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="1.000000" rotation="179.999985" position="-60.799999,33.900002" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="67.500000,110.449997" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="5.500000,-88.349998" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="1.000000" rotation="179.999985" position="-60.799999,33.900002" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="12" isKeyFrame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-1.050000,84.349998" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.849998,-55.549999" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.299999,-110.800003" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-1.050000,84.349998" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.849998,-55.549999" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.299999,-110.800003" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-53.549999,102.000000" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="1.500000,-120.500000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.599998,29.250000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-53.549999,102.000000" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="1.500000,-120.500000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.599998,29.250000" />
+        </frameInfo>
+        <frameInfo frame="16" isKeyFrame="1">
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-51.750000,84.650002" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="14.600000,-250.199997" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="76.400002,-40.700001" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-51.750000,84.650002" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="14.600000,-250.199997" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="76.400002,-40.700001" />
+        </frameInfo>
+        <frameInfo frame="20" isKeyFrame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="67.500000,110.449997" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="5.500000,-88.349998" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="1.000000" rotation="179.999985" position="-60.799999,33.900002" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="67.500000,110.449997" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="5.500000,-88.349998" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="1.000000" rotation="179.999985" position="-60.799999,33.900002" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="24" isKeyFrame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-1.050000,84.349998" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.849998,-55.549999" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.299999,-110.800003" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-1.050000,84.349998" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.849998,-55.549999" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.299999,-110.800003" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-53.549999,102.000000" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="1.500000,-120.500000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.599998,29.250000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-53.549999,102.000000" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="1.500000,-120.500000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="75.599998,29.250000" />
+        </frameInfo>
+        <frameInfo frame="28" isKeyFrame="1">
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-51.750000,84.650002" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="14.600000,-250.199997" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="76.400002,-40.700001" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-51.750000,84.650002" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="14.600000,-250.199997" />
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="76.400002,-40.700001" />
+        </frameInfo>
+        <frameInfo frame="32" isKeyFrame="1">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="67.500000,110.449997" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="5.500000,-88.349998" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="1.000000" rotation="179.999985" position="-60.799999,33.900002" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="67.500000,110.449997" />
+            <frameData bitmapName="quanji_1" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="5.500000,-88.349998" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="1.000000" rotation="179.999985" position="-60.799999,33.900002" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="quanji_2" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="71.250000,-23.299999" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="-55.400002,19.150000" />
+            <frameData bitmapName="quanji_3" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="3.200000,125.650002" />
+        </frameInfo>
+    </action>
+</animation>

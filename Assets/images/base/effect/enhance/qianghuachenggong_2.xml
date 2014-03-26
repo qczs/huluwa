@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="17" actionName="qianghuachenggong_2">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4">
+            <frameData bitmapName="lizi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.550000,-5.200000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="lizi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.550000,-5.200000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="lizi_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.550000,-4.700000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="lizi_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.550000,-4.700000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="lizi_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.050000,-4.700000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="lizi_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="1.050000,-4.700000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="lizi_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.550000,-4.200000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="lizi_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.550000,-4.200000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="lizi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="13.550000,-2.200000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="lizi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="13.550000,-2.200000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="lizi_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.049999,-0.700000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="lizi_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="36.049999,-0.700000" />
+        </frameInfo>
+        <frameInfo frame="16" />
+    </action>
+</animation>

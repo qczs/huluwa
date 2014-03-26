@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="11" actionName="meffect_40_d_0">
+        <frameInfo frame="0" isKeyFrame="1">
+            <frameData bitmapName="huihuo_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.100000,-76.150002" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="huihuo_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.100000,-76.150002" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="huihuo_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-2.350000,-78.099998" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="huihuo_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-2.350000,-78.099998" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="huihuo_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,-82.300003" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="huihuo_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,-82.300003" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="huihuo_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="43.299999,-88.300003" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="huihuo_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="43.299999,-88.300003" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="huihuo_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="134.699997,-71.599998" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="huihuo_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="134.699997,-71.599998" />
+        </frameInfo>
+        <frameInfo frame="10" />
+    </action>
+</animation>

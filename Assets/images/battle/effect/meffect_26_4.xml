@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="25" actionName="meffect_26_4">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_26_401" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-16.950001,2.050000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffect_26_401" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-16.950001,2.050000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_26_402" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-17.450001,-0.950000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_26_402" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-17.450001,-0.950000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_26_403" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-16.450001,-7.450000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_26_403" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-16.450001,-7.450000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffect_26_404" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-20.950001,-9.950000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffect_26_404" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-20.950001,-9.950000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="meffect_26_405" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-31.450001,-15.450000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="meffect_26_405" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-31.450001,-15.450000" />
+        </frameInfo>
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+        <frameInfo frame="23" />
+        <frameInfo frame="24" />
+    </action>
+</animation>

@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="28" actionName="lvbuchuanci_d_0">
+        <frameInfo frame="0" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_1" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="51.799999,-126.500000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="lvbuchuanci_1" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="51.799999,-126.500000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="lvbuchuanci_2" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="72.199997,-198.550003" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="lvbuchuanci_2" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="72.199997,-198.550003" />
+        </frameInfo>
+        <frameInfo frame="4" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_3" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="38.000000,-245.899994" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="lvbuchuanci_3" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="38.000000,-245.899994" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="lvbuchuanci_4" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-24.600000,-301.950012" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="lvbuchuanci_4" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-24.600000,-301.950012" />
+        </frameInfo>
+        <frameInfo frame="8" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_5" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-59.549999,-283.000000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="lvbuchuanci_5" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-59.549999,-283.000000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="lvbuchuanci_6" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-10.050000,-238.600006" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="lvbuchuanci_6" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-10.050000,-238.600006" />
+        </frameInfo>
+        <frameInfo frame="12" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_7" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="47.450001,-221.850006" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="lvbuchuanci_7" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="47.450001,-221.850006" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="lvbuchuanci_8" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="34.349998,-241.500000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="lvbuchuanci_8" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="34.349998,-241.500000" />
+        </frameInfo>
+        <frameInfo frame="16" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_9" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="24.900000,-208.750000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="lvbuchuanci_9" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="24.900000,-208.750000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="lvbuchuanci_10" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-58.099998,-251.000000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="lvbuchuanci_10" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-58.099998,-251.000000" />
+        </frameInfo>
+        <frameInfo frame="20" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_11" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="62.000000,-277.899994" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="lvbuchuanci_11" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="62.000000,-277.899994" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="lvbuchuanci_12" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="80.199997,-242.250000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="lvbuchuanci_12" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="80.199997,-242.250000" />
+        </frameInfo>
+        <frameInfo frame="24" isKeyFrame="1">
+            <frameData bitmapName="lvbuchuanci_13" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="9.600000,-279.399994" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="lvbuchuanci_13" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="9.600000,-279.399994" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="lvbuchuanci_14" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-109.800003,-557.450012" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="lvbuchuanci_14" scaleX="-1.455902" scaleY="-1.455902" rotation="90.003609" position="-109.800003,-557.450012" />
+        </frameInfo>
+    </action>
+</animation>

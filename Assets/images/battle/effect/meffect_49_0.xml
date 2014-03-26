@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="14" actionName="meffect_49_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="kandao" scaleX="0.529694" scaleY="-0.529694" rotation="85.850296" position="-114.500000,-150.750000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="kandao" scaleX="0.529514" scaleY="-0.529514" rotation="83.734932" position="-116.750000,-146.250000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="kandao" scaleX="0.529448" scaleY="-0.529448" rotation="81.694756" position="-118.849998,-143.750000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="kandao" scaleX="0.529695" scaleY="-0.529695" rotation="79.384399" position="-121.199997,-139.750000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="kandao" scaleX="-0.529688" scaleY="0.529688" rotation="4.384767" position="107.599998,-168.000000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="kandao" scaleX="-0.529688" scaleY="0.529688" rotation="4.384767" position="107.599998,-168.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="kandao" scaleX="0.529693" scaleY="-0.529693" rotation="178.937057" position="99.349998,-175.000000" />
+        </frameInfo>
+        <frameInfo frame="13" />
+    </action>
+</animation>

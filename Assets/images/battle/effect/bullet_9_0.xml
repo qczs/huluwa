@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="30" actionName="bullet_9_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="bullet_9_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="2.800000,2.950000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="bullet_9_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="2.800000,2.950000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="bullet_9_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="4.800000,4.950000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="bullet_9_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="4.800000,4.950000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="bullet_9_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-4.200000,10.950000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="bullet_9_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-4.200000,10.950000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="bullet_9_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-3.200000,6.950000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="bullet_9_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-3.200000,6.950000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="bullet_9_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.200000,1.950000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="bullet_9_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.200000,1.950000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="bullet_9_06" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-5.200000,5.950000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="bullet_9_06" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-5.200000,5.950000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="bullet_9_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-9.200000,-3.050000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="bullet_9_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-9.200000,-3.050000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="bullet_9_08" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-11.200000,-3.050000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="bullet_9_08" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-11.200000,-3.050000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="bullet_9_09" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-13.200000,-1.050000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="bullet_9_09" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-13.200000,-1.050000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="bullet_9_010" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.200000,-3.050000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="bullet_9_010" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.200000,-3.050000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="bullet_9_011" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="6.800000,9.950000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="bullet_9_011" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="6.800000,9.950000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="bullet_9_012" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.800000,8.950000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="bullet_9_012" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.800000,8.950000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="bullet_9_013" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-6.200000,4.950000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="bullet_9_013" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-6.200000,4.950000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="bullet_9_014" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-10.200000,1.950000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="bullet_9_014" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-10.200000,1.950000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="bullet_9_015" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.200000,2.950000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="bullet_9_015" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.200000,2.950000" />
+        </frameInfo>
+    </action>
+</animation>

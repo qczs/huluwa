@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="27" actionName="meffect_24_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData bitmapName="shitou_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.750000,15.900000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="shitou_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.750000,8.400000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="shitou_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.750000,0.900000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="shitou_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.750000,-1.100000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="shitou_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.750000,-0.100000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="shitou_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.250000,1.900000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="shitou_07" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.750000,4.900000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="shitou_08" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.250000,13.400000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="shitou_09" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.250000,19.900000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="shitou_10" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-7.250000,19.900000" />
+        </frameInfo>
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+        <frameInfo frame="23" />
+        <frameInfo frame="24" />
+        <frameInfo frame="25" />
+        <frameInfo frame="26" />
+    </action>
+</animation>

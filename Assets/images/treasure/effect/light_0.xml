@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="67" actionName="light_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="light_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-26.450001,-6.450000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="light_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-26.450001,-6.450000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="light_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-19.450001,-14.950000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="light_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-19.450001,-14.950000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="light_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-16.950001,23.049999" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="light_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-16.950001,23.049999" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="light_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="10.550000,-87.949997" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="light_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="10.550000,-87.949997" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="light_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-19.950001,-22.950001" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="light_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-19.950001,-22.950001" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="light_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-21.450001,-37.950001" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="light_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-21.450001,-37.950001" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="light_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="73.050003,-10.450000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="light_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="73.050003,-10.450000" />
+        </frameInfo>
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+        <frameInfo frame="23" />
+        <frameInfo frame="24" />
+        <frameInfo frame="25" />
+        <frameInfo frame="26" />
+        <frameInfo frame="27" />
+        <frameInfo frame="28" />
+        <frameInfo frame="29" />
+        <frameInfo frame="30" />
+        <frameInfo frame="31" />
+        <frameInfo frame="32" />
+        <frameInfo frame="33" />
+        <frameInfo frame="34" />
+        <frameInfo frame="35">
+            <frameData bitmapName="light_08" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="19.049999,16.549999" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="light_08" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="19.049999,16.549999" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="light_09" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="23.049999,-15.450000" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="light_09" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="23.049999,-15.450000" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="light_010" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="11.050000,-35.950001" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="light_010" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="11.050000,-35.950001" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="light_011" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="10.050000,-29.450001" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="light_011" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="10.050000,-29.450001" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="light_012" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="12.550000,-21.450001" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="light_012" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="12.550000,-21.450001" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="light_013" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.050000,-30.450001" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="light_013" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.050000,-30.450001" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="light_014" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-3.950000,-30.450001" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="light_014" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-3.950000,-30.450001" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="light_015" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="3.050000,-30.450001" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="light_015" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="3.050000,-30.450001" />
+        </frameInfo>
+        <frameInfo frame="51" />
+        <frameInfo frame="52" />
+        <frameInfo frame="53" />
+        <frameInfo frame="54" />
+        <frameInfo frame="55" />
+        <frameInfo frame="56" />
+        <frameInfo frame="57" />
+        <frameInfo frame="58" />
+        <frameInfo frame="59" />
+        <frameInfo frame="60" />
+        <frameInfo frame="61" />
+        <frameInfo frame="62" />
+        <frameInfo frame="63" />
+        <frameInfo frame="64" />
+        <frameInfo frame="65" />
+        <frameInfo frame="66" />
+    </action>
+</animation>

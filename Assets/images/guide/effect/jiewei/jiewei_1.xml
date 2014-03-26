@@ -1,0 +1,711 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="295" actionName="jiewei_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5" />
+        <frameInfo frame="6" />
+        <frameInfo frame="7" />
+        <frameInfo frame="8" />
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+        <frameInfo frame="23" />
+        <frameInfo frame="24" />
+        <frameInfo frame="25" />
+        <frameInfo frame="26" />
+        <frameInfo frame="27" />
+        <frameInfo frame="28" />
+        <frameInfo frame="29" />
+        <frameInfo frame="30" />
+        <frameInfo frame="31" />
+        <frameInfo frame="32" />
+        <frameInfo frame="33" />
+        <frameInfo frame="34" />
+        <frameInfo frame="35" />
+        <frameInfo frame="36" />
+        <frameInfo frame="37" />
+        <frameInfo frame="38" />
+        <frameInfo frame="39" />
+        <frameInfo frame="40" />
+        <frameInfo frame="41" />
+        <frameInfo frame="42" />
+        <frameInfo frame="43" />
+        <frameInfo frame="44" />
+        <frameInfo frame="45" />
+        <frameInfo frame="46" />
+        <frameInfo frame="47" />
+        <frameInfo frame="48" />
+        <frameInfo frame="49" />
+        <frameInfo frame="50" />
+        <frameInfo frame="51" />
+        <frameInfo frame="52" />
+        <frameInfo frame="53" />
+        <frameInfo frame="54" />
+        <frameInfo frame="55" />
+        <frameInfo frame="56" />
+        <frameInfo frame="57">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="78">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="79">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="80">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="94">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="95">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="96">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="97">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="98">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="99">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="100">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="101">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="102">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="103">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="104">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="105">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="106">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="107">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="108">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="109">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="110">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="111">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="112">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="113">
+            <frameData bitmapName="guale" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="114">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="115">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="116">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="117">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="118">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="119">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="120">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="121">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="122">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="123">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="124">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="125">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="126">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="127">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="128">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="129">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="130">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="131">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="132">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="133">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="134">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="135">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="136">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="137">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="138">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="139">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="140">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="141">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="142">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="143">
+            <frameData bitmapName="yi" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="4.000000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="144">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="145">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="146">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="147">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="148">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="149">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="150">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="151">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="152">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="153">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="154">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="155">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="156">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="157">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="158">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="159">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="160">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="161">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="162">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="163">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="164">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="165">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="166">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="167">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="168">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="169">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="170">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="171">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="172">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="173">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="174">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="175">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="176">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="177">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="178">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="179">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="180">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="181">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="182">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="183">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="184">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="185">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="186">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="187">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="188">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="189">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="190">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="191">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="192">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="193">
+            <frameData bitmapName="shuohua" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.400000,-3.500000" />
+        </frameInfo>
+        <frameInfo frame="194" />
+        <frameInfo frame="195" />
+        <frameInfo frame="196" />
+        <frameInfo frame="197" />
+        <frameInfo frame="198" />
+        <frameInfo frame="199" />
+        <frameInfo frame="200" />
+        <frameInfo frame="201" />
+        <frameInfo frame="202" />
+        <frameInfo frame="203" />
+        <frameInfo frame="204">
+            <frameData alpha="0" bitmapName="zhuren01" scaleX="-0.289459" scaleY="-0.289459" rotation="179.999985" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="205">
+            <frameData alpha="0.25" bitmapName="zhuren01" scaleX="-0.600083" scaleY="-0.600083" rotation="176.437012" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="206">
+            <frameData alpha="0.5" bitmapName="zhuren01" scaleX="-0.910563" scaleY="-0.910563" rotation="172.685043" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="207">
+            <frameData alpha="0.75" bitmapName="zhuren01" scaleX="-1.220925" scaleY="-1.220925" rotation="168.931061" position="-3.600000,-0.600000" />
+        </frameInfo>
+        <frameInfo frame="208">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="209">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="210">
+            <frameData bitmapName="zhuren01" scaleX="-1.232412" scaleY="-1.232412" rotation="170.699753" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="211">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="212">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="213">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="214">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="215">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="216">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="217">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="218">
+            <frameData bitmapName="zhuren01" scaleX="-0.567316" scaleY="-0.567316" rotation="165.001282" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="219">
+            <frameData bitmapName="zhuren01" scaleX="-0.567316" scaleY="-0.567316" rotation="165.001282" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="220">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="221">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="222">
+            <frameData bitmapName="zhuren01" scaleX="-1.232412" scaleY="-1.232412" rotation="170.699753" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="223">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="224">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="225">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="226">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="227">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="228">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="229">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="230">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="231">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="232">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="233">
+            <frameData bitmapName="zhuren01" scaleX="-1.232418" scaleY="-1.232418" rotation="165.001068" position="-3.600000,-0.550000" />
+        </frameInfo>
+        <frameInfo frame="234">
+            <frameData bitmapName="xingxing" scaleX="-1.399341" scaleY="-1.399341" rotation="170.547531" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="235">
+            <frameData bitmapName="xingxing" scaleX="-1.399341" scaleY="-1.399341" rotation="170.547531" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="236">
+            <frameData bitmapName="xingxing" scaleX="1.190573" scaleY="1.190573" rotation="5.546941" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="237">
+            <frameData bitmapName="xingxing" scaleX="1.190573" scaleY="1.190573" rotation="5.546941" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="238">
+            <frameData bitmapName="xingxing" scaleX="-0.999999" scaleY="-0.999999" rotation="174.009094" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="239">
+            <frameData bitmapName="xingxing" scaleX="-0.999999" scaleY="-0.999999" rotation="174.009094" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="240">
+            <frameData bitmapName="xingxing" scaleX="0.999998" scaleY="0.999998" rotation="8.482486" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="241">
+            <frameData bitmapName="xingxing" scaleX="0.999998" scaleY="0.999998" rotation="8.482486" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="242">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="243">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="244">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="245">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="246">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="247">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="248">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="249">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="250">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="251">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="252">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="253">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="254">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="255">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="256">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="257">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="258">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="259">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="260">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="261">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="262">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="263">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="264">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="265">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="266">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="267">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="268">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="269">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="270">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="271">
+            <frameData bitmapName="xingxing" scaleX="1" scaleY="1" rotation="0" position="0.000000,0.000000" />
+        </frameInfo>
+        <frameInfo frame="272" />
+        <frameInfo frame="273" />
+        <frameInfo frame="274" />
+        <frameInfo frame="275" />
+        <frameInfo frame="276" />
+        <frameInfo frame="277" />
+        <frameInfo frame="278" />
+        <frameInfo frame="279" />
+        <frameInfo frame="280" />
+        <frameInfo frame="281" />
+        <frameInfo frame="282" />
+        <frameInfo frame="283" />
+        <frameInfo frame="284" />
+        <frameInfo frame="285" />
+        <frameInfo frame="286" />
+        <frameInfo frame="287" />
+        <frameInfo frame="288" />
+        <frameInfo frame="289" />
+        <frameInfo frame="290" />
+        <frameInfo frame="291" />
+        <frameInfo frame="292" />
+        <frameInfo frame="293" />
+        <frameInfo frame="294" />
+    </action>
+</animation>

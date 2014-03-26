@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="76" actionName="xiaoma_stand_4">
+        <frameInfo frame="0">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.100006" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.100006" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.100006" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.100006" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.649994" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.200012" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000009" scaleY="-1.000009" rotation="159.042343" position="106.050003,-265.000000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="0.999982" scaleY="0.999982" rotation="2.738454" position="105.750000,-265.399994" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999994" scaleY="-0.999994" rotation="150.373642" position="100.349998,-265.399994" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999991" scaleY="-0.999991" rotation="178.797821" position="104.550003,-266.000000" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999991" scaleY="-0.999991" rotation="178.797821" position="104.550003,-266.000000" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999991" scaleY="-0.999991" rotation="178.797821" position="104.550003,-266.000000" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999991" scaleY="-0.999991" rotation="178.797821" position="104.550003,-266.000000" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999991" scaleY="-0.999991" rotation="178.797821" position="104.550003,-266.000000" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-0.999983" scaleY="-0.999983" rotation="152.524307" position="103.800003,-264.299988" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="0.999974" scaleY="0.999974" rotation="6.175682" position="110.949997,-262.700012" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000015" scaleY="-1.000015" rotation="161.746109" position="110.599998,-262.149994" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-262.750000" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-262.750000" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.899994" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.899994" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-262.750000" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-262.750000" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.899994" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-260.899994" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-262.399994" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-262.399994" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="xiaoma_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="113.949997,-261.750000" />
+        </frameInfo>
+    </action>
+</animation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="14" actionName="block">
+        <frameInfo frame="0">
+            <frameData bitmapName="yuanjian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="yuanjian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="yuanjian" scaleX="-1.725891" scaleY="-0.779892" rotation="179.999985" position="0.100000,-34.500000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="yuanjian" scaleX="-1.725891" scaleY="-0.779892" rotation="179.999985" position="0.100000,-34.500000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="yuanjian" scaleX="-1.588928" scaleY="-0.880600" rotation="179.999985" position="0.200000,-18.450001" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="yuanjian" scaleX="-1.588928" scaleY="-0.880600" rotation="179.999985" position="0.200000,-18.450001" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="yuanjian" scaleX="-1.588928" scaleY="-0.880600" rotation="179.999985" position="0.200000,-18.450001" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="yuanjian" scaleX="-1.588928" scaleY="-0.880600" rotation="179.999985" position="0.200000,-18.450001" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="yuanjian" scaleX="-1.588928" scaleY="-0.880600" rotation="179.999985" position="0.200000,-18.450001" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="yuanjian" scaleX="-1.535995" scaleY="-0.831268" rotation="179.999985" position="0.150000,-26.299999" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="yuanjian" scaleX="-1.535995" scaleY="-0.831268" rotation="179.999985" position="0.150000,-26.299999" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="yuanjian" scaleX="-0.893204" scaleY="-1.182434" rotation="179.999985" position="0.550000,41.500000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="yuanjian" scaleX="-0.893204" scaleY="-1.182434" rotation="179.999985" position="0.550000,41.500000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="yuanjian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+    </action>
+</animation>

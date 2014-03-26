@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="11" actionName="walk_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="walk" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="walk" scaleX="-1.035995" scaleY="-1.035995" rotation="179.999985" position="0.500000,3.350000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="walk" scaleX="-1.063995" scaleY="-1.063995" rotation="179.999985" position="0.500000,5.600000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="walk" scaleX="-1.083984" scaleY="-1.083984" rotation="179.999985" position="0.500000,7.200000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="walk" scaleX="-1.095993" scaleY="-1.095993" rotation="179.999985" position="0.500000,8.150000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="walk" scaleX="-1.099976" scaleY="-1.099976" rotation="179.999985" position="0.500000,8.450000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="walk" scaleX="-1.095993" scaleY="-1.095993" rotation="179.999985" position="0.500000,8.100000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="walk" scaleX="-1.084015" scaleY="-1.084015" rotation="179.999985" position="0.500000,7.200000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="walk" scaleX="-1.064011" scaleY="-1.064011" rotation="179.999985" position="0.500000,5.550000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="walk" scaleX="-1.036011" scaleY="-1.036011" rotation="179.999985" position="0.500000,3.350000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="walk" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+    </action>
+</animation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="10" actionName="hurt2_u_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-83.949997" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-115.150002" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="hurt2_d" scaleX="0.999999" scaleY="0.999999" rotation="1.999880" position="7.100000,-114.849998" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="hurt2_d" scaleX="-0.999999" scaleY="-0.999999" rotation="178.000122" position="6.800000,-115.449997" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-115.150002" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-115.150002" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-115.150002" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-115.150002" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-99.550003" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="hurt2_d" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="6.950000,-83.949997" />
+        </frameInfo>
+    </action>
+</animation>

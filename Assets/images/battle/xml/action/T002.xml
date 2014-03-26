@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="11" actionName="T002">
+        <frameInfo frame="0">
+            <frameData bitmapName="T002" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="T002" scaleX="-0.962387" scaleY="-0.962387" rotation="179.999985" position="0.500000,-2.450000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="T002" scaleX="-0.931625" scaleY="-0.931625" rotation="179.999985" position="0.500000,-4.950000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="T002" scaleX="-0.907700" scaleY="-0.907700" rotation="179.999985" position="0.500000,-6.850000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="T002" scaleX="-0.890594" scaleY="-0.890594" rotation="179.999985" position="0.500000,-8.200000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="T002" scaleX="-0.880341" scaleY="-0.880341" rotation="179.999985" position="0.500000,-9.000000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="T002" scaleX="-0.876923" scaleY="-0.876923" rotation="179.999985" position="0.500000,-9.300000" />
+        </frameInfo>
+        <frameInfo frame="7" isKeyFrame="1">
+            <frameData bitmapName="T002" scaleX="-1.163513" scaleY="-1.163513" rotation="179.999985" position="0.500000,13.500000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="T002" scaleX="-1.163513" scaleY="-1.163513" rotation="179.999985" position="0.500000,13.500000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="T002" scaleX="-1.040894" scaleY="-1.040894" rotation="179.999985" position="0.500000,3.800000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="T002" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+    </action>
+</animation>

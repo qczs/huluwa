@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="48" actionName="jianchihu_stand_5">
+        <frameInfo frame="0">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="153.550003,-88.400002" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="153.550003,-88.400002" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999982" scaleY="0.999982" rotation="2.774317" position="159.399994,-87.699997" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999982" scaleY="0.999982" rotation="2.774317" position="159.399994,-87.699997" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="153.550003,-88.400002" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="153.550003,-88.400002" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999982" scaleY="0.999982" rotation="2.774317" position="159.399994,-87.699997" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999982" scaleY="0.999982" rotation="2.774317" position="159.399994,-87.699997" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999994" scaleY="0.999994" rotation="3.948684" position="157.050003,-87.900002" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="1.733139" position="155.050003,-87.250000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000020" scaleY="1.000020" rotation="20.959305" position="173.250000,-92.949997" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000020" scaleY="1.000020" rotation="20.959305" position="173.250000,-92.949997" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999985" scaleY="1.177936" rotation="43.950840" position="190.500000,-86.750000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999985" scaleY="1.177936" rotation="43.950840" position="190.500000,-86.750000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999985" scaleY="1.177936" rotation="43.950840" position="190.500000,-86.750000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999985" scaleY="1.177936" rotation="43.950840" position="190.500000,-86.750000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="0.999985" scaleY="1.177936" rotation="43.950840" position="190.500000,-86.750000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="0.027976" position="153.100006,-89.550003" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999986" scaleY="-0.999986" rotation="165.317230" position="137.500000,-92.300003" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="134.949997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="134.949997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999983" scaleY="-0.999983" rotation="163.080017" position="132.699997,-92.150002" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999986" scaleY="-0.999986" rotation="165.317230" position="137.500000,-92.300003" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="-0.999986" scaleY="-0.999986" rotation="165.317230" position="137.500000,-92.300003" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="0.027976" position="153.100006,-89.550003" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="jianchihu_stand_5" scaleX="1.000000" scaleY="1.000000" rotation="0.027976" position="153.100006,-89.550003" />
+        </frameInfo>
+    </action>
+</animation>

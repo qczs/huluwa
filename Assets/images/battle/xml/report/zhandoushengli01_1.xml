@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="100" actionName="zhandoushengli01_1">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5">
+            <frameData alpha="0" bitmapName="zhan" scaleX="-3.000000" scaleY="-3.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.328125" bitmapName="zhan" scaleX="-2.299988" scaleY="-2.299988" rotation="179.999985" position="-105.699997,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.671875" bitmapName="zhan" scaleX="-1.599976" scaleY="-1.599976" rotation="179.999985" position="-105.750000,-44.599998" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="zhan" scaleX="-0.899994" scaleY="-0.899994" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="78">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="79">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="80">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="81">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="82">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="83">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="84">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="85">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="86">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="87">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="88">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="89">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="90">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="91">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="92">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="93">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="94">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="95">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="96">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="97">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="98">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+        <frameInfo frame="99">
+            <frameData bitmapName="zhan" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-105.750000,-44.650002" />
+        </frameInfo>
+    </action>
+</animation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="19" actionName="meffect_28_5">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2">
+            <frameData bitmapName="meffect_28_501" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.350000,-58.650002" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="meffect_28_501" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.350000,-58.650002" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_28_502" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.000000,-110.449997" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffect_28_502" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.000000,-110.449997" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_28_503" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.650000,-146.199997" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_28_503" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="3.650000,-146.199997" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_28_504" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-2.050000,-186.899994" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_28_504" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-2.050000,-186.899994" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffect_28_505" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.550000,-191.800003" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffect_28_505" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.550000,-191.800003" />
+        </frameInfo>
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+    </action>
+</animation>

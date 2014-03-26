@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="66" actionName="zhandoushengli03_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="2.100000,-67.900002" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999576" scaleY="0.999576" rotation="7.315178" position="1.600000,-69.300003" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999189" scaleY="0.999189" rotation="14.825070" position="1.300000,-70.849998" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998854" scaleY="0.998854" rotation="22.339245" position="1.200000,-72.449997" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998578" scaleY="0.998578" rotation="29.858149" position="1.200000,-74.000000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998425" scaleY="0.998425" rotation="37.380932" position="1.500000,-75.550003" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998352" scaleY="0.998352" rotation="44.905262" position="2.050000,-77.000000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998424" scaleY="0.998424" rotation="52.429218" position="2.700000,-78.449997" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998583" scaleY="0.998583" rotation="59.952034" position="3.550000,-79.750000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998833" scaleY="0.998833" rotation="67.470901" position="4.550000,-80.949997" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999180" scaleY="0.999180" rotation="74.986465" position="5.750000,-81.949997" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999573" scaleY="0.999573" rotation="82.496040" position="7.000000,-82.849998" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="1.000000" scaleY="1.000000" rotation="89.994759" position="8.400000,-83.599998" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999589" scaleY="0.999589" rotation="97.314217" position="9.850000,-84.099998" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999185" scaleY="0.999185" rotation="104.824219" position="11.400000,-84.400002" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998848" scaleY="0.998848" rotation="112.338432" position="12.950000,-84.550003" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998578" scaleY="0.998578" rotation="119.858139" position="14.450000,-84.449997" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998425" scaleY="0.998425" rotation="127.380936" position="16.049999,-84.150002" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998352" scaleY="0.998352" rotation="134.905258" position="17.549999,-83.699997" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998414" scaleY="0.998414" rotation="142.429916" position="18.950001,-83.000000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998575" scaleY="0.998575" rotation="149.952789" position="20.250000,-82.150002" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998842" scaleY="0.998842" rotation="157.472046" position="21.450001,-81.150002" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999176" scaleY="0.999176" rotation="164.987289" position="22.500000,-80.000000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999576" scaleY="0.999576" rotation="172.684830" position="23.400000,-78.650002" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-1.000000" scaleY="-1.000000" rotation="0.000000" position="24.100000,-77.300003" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999576" scaleY="-0.999576" rotation="7.315178" position="24.600000,-75.849998" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999176" scaleY="-0.999176" rotation="15.012691" position="24.900000,-74.300003" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998842" scaleY="-0.998842" rotation="22.527956" position="25.049999,-72.699997" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998575" scaleY="-0.998575" rotation="30.047209" position="25.000000,-71.150002" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998414" scaleY="-0.998414" rotation="37.570087" position="24.650000,-69.599998" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998352" scaleY="-0.998352" rotation="45.094738" position="24.150000,-68.150002" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998425" scaleY="-0.998425" rotation="52.619068" position="23.500000,-66.750000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998578" scaleY="-0.998578" rotation="60.141850" position="22.700001,-65.449997" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998848" scaleY="-0.998848" rotation="67.661575" position="21.650000,-64.250000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999185" scaleY="-0.999185" rotation="75.175781" position="20.400000,-63.150002" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999589" scaleY="-0.999589" rotation="82.685783" position="19.150000,-62.299999" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-1.000000" scaleY="-1.000000" rotation="90.005249" position="17.799999,-61.599998" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999573" scaleY="-0.999573" rotation="97.503960" position="16.299999,-61.099998" />
+        </frameInfo>
+        <frameInfo frame="38">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999180" scaleY="-0.999180" rotation="105.013535" position="14.800000,-60.799999" />
+        </frameInfo>
+        <frameInfo frame="39">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998833" scaleY="-0.998833" rotation="112.529099" position="13.150000,-60.650002" />
+        </frameInfo>
+        <frameInfo frame="40">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998583" scaleY="-0.998583" rotation="120.047966" position="11.700000,-60.750000" />
+        </frameInfo>
+        <frameInfo frame="41">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998424" scaleY="-0.998424" rotation="127.570778" position="10.150000,-61.049999" />
+        </frameInfo>
+        <frameInfo frame="42">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998352" scaleY="-0.998352" rotation="135.094742" position="8.600000,-61.500000" />
+        </frameInfo>
+        <frameInfo frame="43">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998425" scaleY="-0.998425" rotation="142.619064" position="7.200000,-62.250000" />
+        </frameInfo>
+        <frameInfo frame="44">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998578" scaleY="-0.998578" rotation="150.141846" position="5.950000,-63.099998" />
+        </frameInfo>
+        <frameInfo frame="45">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.998854" scaleY="-0.998854" rotation="157.660751" position="4.750000,-64.099998" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999189" scaleY="-0.999189" rotation="165.174927" position="3.650000,-65.250000" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-0.999576" scaleY="-0.999576" rotation="172.684830" position="2.750000,-66.550003" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="2.100000,-67.900002" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999607" scaleY="0.999607" rotation="6.795869" position="1.650000,-69.250000" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999237" scaleY="0.999237" rotation="13.784150" position="1.300000,-70.650002" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998915" scaleY="0.998915" rotation="20.778431" position="1.100000,-72.099998" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998645" scaleY="0.998645" rotation="27.587738" position="1.150000,-73.550003" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998475" scaleY="0.998475" rotation="34.588882" position="1.450000,-74.949997" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998368" scaleY="0.998368" rotation="41.591721" position="1.750000,-76.400002" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998367" scaleY="0.998367" rotation="48.407040" position="2.300000,-77.750000" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998471" scaleY="0.998471" rotation="55.409901" position="2.950000,-78.949997" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998659" scaleY="0.998659" rotation="62.410702" position="3.850000,-80.150002" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998906" scaleY="0.998906" rotation="69.220444" position="4.800000,-81.199997" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999244" scaleY="0.999244" rotation="76.214149" position="5.950000,-82.099998" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999609" scaleY="0.999609" rotation="83.203247" position="7.150000,-82.949997" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="1.000000" scaleY="1.000000" rotation="89.994759" position="8.400000,-83.599998" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.999231" scaleY="0.999231" rotation="97.305382" position="9.900000,-84.099998" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998470" scaleY="0.998470" rotation="104.806091" position="11.400000,-84.400002" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.997772" scaleY="0.997772" rotation="112.312645" position="12.950000,-84.500000" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="zhandoushengli03_guang" scaleX="0.998578" scaleY="0.998578" rotation="119.858139" position="14.450000,-84.449997" />
+        </frameInfo>
+    </action>
+</animation>

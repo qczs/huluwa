@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="12" actionName="meffect_37_1">
+        <frameInfo frame="0">
+            <frameData alpha="0.6015625" bitmapName="outFluid_19" scaleX="-1.711212" scaleY="-1.711212" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData alpha="0.69921875" bitmapName="outFluid_19" scaleX="-1.783417" scaleY="-1.783417" rotation="179.999985" position="-1.000000,-3.250000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData alpha="0.80078125" bitmapName="outFluid_19" scaleX="-1.855591" scaleY="-1.855591" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData alpha="0.8984375" bitmapName="outFluid_19" scaleX="-1.927795" scaleY="-1.927795" rotation="179.999985" position="-1.000000,-3.250000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="outFluid_19" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData alpha="0.87109375" bitmapName="outFluid_19" scaleX="-2.028564" scaleY="-2.028564" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData alpha="0.73828125" bitmapName="outFluid_19" scaleX="-2.057159" scaleY="-2.057159" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData alpha="0.609375" bitmapName="outFluid_19" scaleX="-2.085724" scaleY="-2.085724" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData alpha="0.48828125" bitmapName="outFluid_19" scaleX="-2.114288" scaleY="-2.114288" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData alpha="0.359375" bitmapName="outFluid_19" scaleX="-2.142853" scaleY="-2.142853" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.23046875" bitmapName="outFluid_19" scaleX="-2.171417" scaleY="-2.171417" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData alpha="0.1015625" bitmapName="outFluid_19" scaleX="-2.199982" scaleY="-2.199982" rotation="179.999985" position="-1.000000,-3.300000" />
+        </frameInfo>
+    </action>
+</animation>

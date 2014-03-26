@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="18" actionName="beffect_1_0">
+        <frameInfo frame="0" />
+        <frameInfo frame="1">
+            <frameData bitmapName="beffect_1_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.150000,-37.849998" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="beffect_1_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.150000,-37.849998" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="beffect_1_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.150000,-46.349998" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="beffect_1_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-6.150000,-46.349998" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="beffect_1_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.150000,-33.849998" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="beffect_1_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.150000,-33.849998" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="beffect_1_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.150000,-14.850000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="beffect_1_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-5.150000,-14.850000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="beffect_1_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-4.650000,9.650000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="beffect_1_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-4.650000,9.650000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="beffect_1_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-4.150000,37.650002" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="beffect_1_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-4.150000,37.650002" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="beffect_1_07" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.650000,63.150002" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="beffect_1_07" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-1.650000,63.150002" />
+        </frameInfo>
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+    </action>
+</animation>

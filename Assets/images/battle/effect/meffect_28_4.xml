@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="19" actionName="meffect_28_4">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821533" scaleY="-0.314590" rotation="179.999985" position="0.050000,-51.549999" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821533" scaleY="-0.314590" rotation="179.999985" position="0.050000,-51.549999" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821503" scaleY="-0.588745" rotation="179.999985" position="0.050000,-105.050003" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821503" scaleY="-0.588745" rotation="179.999985" position="0.050000,-105.050003" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821533" scaleY="-0.862915" rotation="179.999985" position="0.050000,-158.500000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821533" scaleY="-1.000000" rotation="179.999985" position="0.050000,-185.250000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821533" scaleY="-1.000000" rotation="179.999985" position="0.050000,-185.250000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_28_401" scaleX="-1.821533" scaleY="-1.000000" rotation="179.999985" position="0.050000,-185.250000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData alpha="0.5" bitmapName="meffect_28_401" scaleX="-0.545242" scaleY="-1.000000" rotation="179.999985" position="0.000000,-185.250000" />
+        </frameInfo>
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+    </action>
+</animation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="18" actionName="meffect_13_5">
+        <frameInfo frame="0">
+            <frameData bitmapName="meffect_13_51" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-265.450012,-394.450012" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="meffect_13_51" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-265.450012,-394.450012" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="meffect_13_52" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-177.449997,-241.449997" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="meffect_13_52" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-177.449997,-241.449997" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_13_53" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-40.450001,-110.449997" />
+        </frameInfo>
+        <frameInfo frame="5" isKeyFrame="1">
+            <frameData bitmapName="meffect_13_54" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-1.450000,-46.450001" />
+        </frameInfo>
+        <frameInfo frame="6" />
+        <frameInfo frame="7" />
+        <frameInfo frame="8" />
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+    </action>
+</animation>

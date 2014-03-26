@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="23" actionName="meffevt_15_0">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData bitmapName="meffevt_15_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-6.600000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffevt_15_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-6.600000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffevt_15_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-9.600000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffevt_15_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-9.600000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffevt_15_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-12.600000" />
+        </frameInfo>
+        <frameInfo frame="8" isKeyFrame="1">
+            <frameData bitmapName="meffevt_15_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="1.450000,-11.600000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffevt_15_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="1.450000,-11.600000" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffevt_15_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="1.450000,-6.600000" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffevt_15_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="1.450000,-6.600000" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="meffevt_15_06" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-4.600000" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="meffevt_15_06" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-4.600000" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="meffevt_15_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.550000,-3.600000" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="meffevt_15_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="-0.550000,-3.600000" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="meffevt_15_08" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-2.600000" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="meffevt_15_08" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,-2.600000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="meffevt_15_09" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,1.400000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData bitmapName="meffevt_15_09" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,1.400000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData bitmapName="meffevt_15_010" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,5.400000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData bitmapName="meffevt_15_010" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.450000,5.400000" />
+        </frameInfo>
+        <frameInfo frame="22" />
+    </action>
+</animation>

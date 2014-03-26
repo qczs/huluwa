@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="147" actionName="xiongmao_stand_4">
+        <frameInfo frame="0">
+            <frameData bitmapName="xiongmao_stand_dingwei" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.500000,0.500000" />
+        </frameInfo>
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5" />
+        <frameInfo frame="6" />
+        <frameInfo frame="7" />
+        <frameInfo frame="8" />
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17" />
+        <frameInfo frame="18" />
+        <frameInfo frame="19" />
+        <frameInfo frame="20" />
+        <frameInfo frame="21" />
+        <frameInfo frame="22" />
+        <frameInfo frame="23" />
+        <frameInfo frame="24" />
+        <frameInfo frame="25" />
+        <frameInfo frame="26" />
+        <frameInfo frame="27" />
+        <frameInfo frame="28" />
+        <frameInfo frame="29" />
+        <frameInfo frame="30" />
+        <frameInfo frame="31" />
+        <frameInfo frame="32" />
+        <frameInfo frame="33" />
+        <frameInfo frame="34" />
+        <frameInfo frame="35" />
+        <frameInfo frame="36" />
+        <frameInfo frame="37" />
+        <frameInfo frame="38" />
+        <frameInfo frame="39" />
+        <frameInfo frame="40" />
+        <frameInfo frame="41" />
+        <frameInfo frame="42" />
+        <frameInfo frame="43" />
+        <frameInfo frame="44" />
+        <frameInfo frame="45">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="46">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="47">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="48">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="49">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="50">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="51">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="52">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="53">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="54">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="55">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="56">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="57">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="58">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="59">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="60">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="61">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="62">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="63">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="64">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="65">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="66">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="67">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="68">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="69">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="70">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="71">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="72">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="73">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="74">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="75">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="76">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="77">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="78" />
+        <frameInfo frame="79" />
+        <frameInfo frame="80" />
+        <frameInfo frame="81" />
+        <frameInfo frame="82" />
+        <frameInfo frame="83" />
+        <frameInfo frame="84" />
+        <frameInfo frame="85" />
+        <frameInfo frame="86" />
+        <frameInfo frame="87" />
+        <frameInfo frame="88" />
+        <frameInfo frame="89" />
+        <frameInfo frame="90" />
+        <frameInfo frame="91" />
+        <frameInfo frame="92" />
+        <frameInfo frame="93" />
+        <frameInfo frame="94" />
+        <frameInfo frame="95" />
+        <frameInfo frame="96" />
+        <frameInfo frame="97" />
+        <frameInfo frame="98" />
+        <frameInfo frame="99" />
+        <frameInfo frame="100" />
+        <frameInfo frame="101" />
+        <frameInfo frame="102" />
+        <frameInfo frame="103" />
+        <frameInfo frame="104" />
+        <frameInfo frame="105" />
+        <frameInfo frame="106" />
+        <frameInfo frame="107" />
+        <frameInfo frame="108" />
+        <frameInfo frame="109" />
+        <frameInfo frame="110" />
+        <frameInfo frame="111" />
+        <frameInfo frame="112" />
+        <frameInfo frame="113" />
+        <frameInfo frame="114" />
+        <frameInfo frame="115" />
+        <frameInfo frame="116" />
+        <frameInfo frame="117">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="118">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="119">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="120">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="121">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="122">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="123">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="124">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="125">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="126">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="127">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="128">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="129">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="130">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="131">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="132">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="133">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="134">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-0.999999" scaleY="-0.999999" rotation="172.798981" position="75.500000,-163.050003" />
+        </frameInfo>
+        <frameInfo frame="135">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="136">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="137">
+            <frameData bitmapName="xiongmao_stand_4" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="82.000000,-155.899994" />
+        </frameInfo>
+        <frameInfo frame="138" />
+        <frameInfo frame="139" />
+        <frameInfo frame="140" />
+        <frameInfo frame="141" />
+        <frameInfo frame="142" />
+        <frameInfo frame="143" />
+        <frameInfo frame="144" />
+        <frameInfo frame="145" />
+        <frameInfo frame="146" />
+    </action>
+</animation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="11" actionName="meffect_31_0">
+        <frameInfo frame="0">
+            <frameData bitmapName="baoqi_01" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="7.000000,-9.200000" />
+        </frameInfo>
+        <frameInfo frame="1">
+            <frameData bitmapName="baoqi_01" scaleX="-0.727646" scaleY="-0.727646" rotation="179.999985" position="5.500000,-9.200000" />
+        </frameInfo>
+        <frameInfo frame="2">
+            <frameData bitmapName="baoqi_01" scaleX="-0.455292" scaleY="-0.455292" rotation="179.999985" position="3.950000,-9.200000" />
+        </frameInfo>
+        <frameInfo frame="3">
+            <frameData bitmapName="baoqi_02" scaleX="-0.340240" scaleY="-0.340240" rotation="179.999985" position="0.000000,1.800000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="baoqi_02" scaleX="-0.670120" scaleY="-0.670120" rotation="179.999985" position="0.000000,1.800000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="baoqi_02" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.000000,1.800000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="baoqi_03" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.000000,1.800000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="baoqi_04" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="0.000000,1.800000" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="baoqi_05" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.500000,2.300000" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="baoqi_06" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="-0.500000,1.800000" />
+        </frameInfo>
+        <frameInfo frame="10" />
+    </action>
+</animation>

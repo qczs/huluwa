@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="20" actionName="meffect_3_0">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3">
+            <frameData bitmapName="meffect_3_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.100000,3.800000" />
+        </frameInfo>
+        <frameInfo frame="4">
+            <frameData bitmapName="meffect_3_01" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="0.100000,3.800000" />
+        </frameInfo>
+        <frameInfo frame="5">
+            <frameData bitmapName="meffect_3_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-12.200000" />
+        </frameInfo>
+        <frameInfo frame="6">
+            <frameData bitmapName="meffect_3_02" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-12.200000" />
+        </frameInfo>
+        <frameInfo frame="7">
+            <frameData bitmapName="meffect_3_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-18.200001" />
+        </frameInfo>
+        <frameInfo frame="8">
+            <frameData bitmapName="meffect_3_03" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-18.200001" />
+        </frameInfo>
+        <frameInfo frame="9">
+            <frameData bitmapName="meffect_3_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-23.200001" />
+        </frameInfo>
+        <frameInfo frame="10">
+            <frameData bitmapName="meffect_3_04" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-23.200001" />
+        </frameInfo>
+        <frameInfo frame="11">
+            <frameData bitmapName="meffect_3_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-30.200001" />
+        </frameInfo>
+        <frameInfo frame="12">
+            <frameData bitmapName="meffect_3_05" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="7.100000,-30.200001" />
+        </frameInfo>
+        <frameInfo frame="13">
+            <frameData bitmapName="meffect_3_06" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-35.200001" />
+        </frameInfo>
+        <frameInfo frame="14">
+            <frameData bitmapName="meffect_3_06" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="20.100000,-35.200001" />
+        </frameInfo>
+        <frameInfo frame="15">
+            <frameData bitmapName="meffect_3_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="30.100000,-35.200001" />
+        </frameInfo>
+        <frameInfo frame="16">
+            <frameData bitmapName="meffect_3_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="30.100000,-35.200001" />
+        </frameInfo>
+        <frameInfo frame="17">
+            <frameData bitmapName="meffect_3_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="30.100000,-35.200001" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData bitmapName="meffect_3_07" scaleX="-2.000000" scaleY="-2.000000" rotation="179.999985" position="30.100000,-35.200001" />
+        </frameInfo>
+        <frameInfo frame="19" />
+    </action>
+</animation>
