@@ -125,6 +125,7 @@
      <Compile Include="Assets\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
      <Compile Include="Assets\Scripts\Editor\MainMenu.cs" />
      <Compile Include="Assets\Scripts\Editor\UIAUTOAtlasMaker.cs" />
+     <Compile Include="Assets\Scripts\Editor\UpdateXcodeProject.cs" />
      <None Include="Assets\images\battle\effect\meffect_34_d_9.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\images\battle\effect\meffect_28_0.xml" />
@@ -569,6 +570,7 @@
      <None Include="Assets\images\base\effect\item\zhaojiangxingji_1.xml" />
      <None Include="Assets\images\battle\effect\meffect_4_4.xml" />
      <None Include="Assets\images\battle\xml\report\zhandoushibai_7.xml" />
+     <None Include="Assets\Resources\ui\login\login.txt" />
      <None Include="Assets\images\battle\effect\bullet_1_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_d_2.xml" />
      <None Include="Assets\images\base\effect\enhance\qianghuachenggong2_3.xml" />
