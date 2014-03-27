@@ -1,0 +1,132 @@
+{"frames": {
+
+"arena.png":
+{
+	"frame": {"x":0,"y":0,"w":416,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":416,"h":158},
+	"sourceSize": {"w":418,"h":158}
+},
+"contest.png":
+{
+	"frame": {"x":416,"y":0,"w":418,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":158},
+	"sourceSize": {"w":418,"h":158}
+},
+"dialog_background.png":
+{
+	"frame": {"x":0,"y":158,"w":491,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":477},
+	"sourceSize": {"w":491,"h":477}
+},
+"elite_copy.png":
+{
+	"frame": {"x":491,"y":158,"w":429,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":429,"h":135},
+	"sourceSize": {"w":429,"h":135}
+},
+"forge.png":
+{
+	"frame": {"x":920,"y":158,"w":85,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":85,"h":94},
+	"sourceSize": {"w":93,"h":98}
+},
+"formation.png":
+{
+	"frame": {"x":0,"y":635,"w":101,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":101,"h":107},
+	"sourceSize": {"w":105,"h":111}
+},
+"great_soldier.png":
+{
+	"frame": {"x":101,"y":635,"w":93,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":93,"h":111},
+	"sourceSize": {"w":95,"h":115}
+},
+"level_gift.png":
+{
+	"frame": {"x":194,"y":635,"w":107,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":99},
+	"sourceSize": {"w":107,"h":99}
+},
+"level_reward.png":
+{
+	"frame": {"x":194,"y":635,"w":107,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":99},
+	"sourceSize": {"w":107,"h":99}
+},
+"pet.png":
+{
+	"frame": {"x":301,"y":635,"w":82,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":82,"h":100},
+	"sourceSize": {"w":84,"h":104}
+},
+"resource.png":
+{
+	"frame": {"x":383,"y":635,"w":418,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":158},
+	"sourceSize": {"w":418,"h":158}
+},
+"rob_treasure.png":
+{
+	"frame": {"x":0,"y":793,"w":416,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":416,"h":158},
+	"sourceSize": {"w":418,"h":158}
+},
+"sign_in.png":
+{
+	"frame": {"x":416,"y":793,"w":109,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":101},
+	"sourceSize": {"w":109,"h":101}
+},
+"star.png":
+{
+	"frame": {"x":525,"y":793,"w":81,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":81,"h":99},
+	"sourceSize": {"w":87,"h":103}
+},
+"yellow_round.png":
+{
+	"frame": {"x":606,"y":793,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "switch.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb48d8a154ebfc607d0ecc1c43f04199:1/1$"
+}
+}

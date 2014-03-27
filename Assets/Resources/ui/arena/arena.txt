@@ -1,0 +1,196 @@
+{"frames": {
+
+"arena_cellbg.png":
+{
+	"frame": {"x":0,"y":0,"w":638,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":638,"h":190},
+	"sourceSize": {"w":638,"h":190}
+},
+"card_back.png":
+{
+	"frame": {"x":638,"y":0,"w":151,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":150},
+	"sourceSize": {"w":151,"h":150}
+},
+"card_face.png":
+{
+	"frame": {"x":789,"y":0,"w":151,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":150},
+	"sourceSize": {"w":151,"h":150}
+},
+"challenge_normal.png":
+{
+	"frame": {"x":0,"y":190,"w":146,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":139},
+	"sourceSize": {"w":146,"h":139}
+},
+"challenge_select.png":
+{
+	"frame": {"x":146,"y":190,"w":132,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":132,"h":125},
+	"sourceSize": {"w":146,"h":139}
+},
+"exp.png":
+{
+	"frame": {"x":278,"y":190,"w":51,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":21},
+	"sourceSize": {"w":51,"h":21}
+},
+"heroname_bg.png":
+{
+	"frame": {"x":329,"y":190,"w":47,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":27},
+	"sourceSize": {"w":47,"h":27}
+},
+"huawen.png":
+{
+	"frame": {"x":376,"y":190,"w":469,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":17},
+	"sourceSize": {"w":469,"h":17}
+},
+"huode.png":
+{
+	"frame": {"x":845,"y":190,"w":178,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":42},
+	"sourceSize": {"w":178,"h":42}
+},
+"item_icon.png":
+{
+	"frame": {"x":0,"y":329,"w":26,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":28},
+	"sourceSize": {"w":26,"h":28}
+},
+"item_name_bg.png":
+{
+	"frame": {"x":26,"y":329,"w":134,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":33},
+	"sourceSize": {"w":134,"h":33}
+},
+"luckicon.png":
+{
+	"frame": {"x":160,"y":329,"w":41,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":43},
+	"sourceSize": {"w":41,"h":43}
+},
+"lucknamebg_qian.png":
+{
+	"frame": {"x":201,"y":329,"w":106,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":39},
+	"sourceSize": {"w":106,"h":39}
+},
+"lucknamebg_shen.png":
+{
+	"frame": {"x":307,"y":329,"w":106,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":39},
+	"sourceSize": {"w":106,"h":39}
+},
+"lueduo.png":
+{
+	"frame": {"x":413,"y":329,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"naili.png":
+{
+	"frame": {"x":503,"y":329,"w":47,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":22},
+	"sourceSize": {"w":47,"h":22}
+},
+"paizi.png":
+{
+	"frame": {"x":0,"y":419,"w":596,"h":557},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":596,"h":557},
+	"sourceSize": {"w":596,"h":557}
+},
+"rankings_cellbg.png":
+{
+	"frame": {"x":0,"y":976,"w":638,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":638,"h":190},
+	"sourceSize": {"w":638,"h":190}
+},
+"rankings_selfcellbg.png":
+{
+	"frame": {"x":0,"y":1166,"w":638,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":638,"h":190},
+	"sourceSize": {"w":638,"h":190}
+},
+"vs.png":
+{
+	"frame": {"x":638,"y":1166,"w":81,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":86},
+	"sourceSize": {"w":81,"h":86}
+},
+"vs_bg.png":
+{
+	"frame": {"x":0,"y":1356,"w":469,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":89},
+	"sourceSize": {"w":469,"h":89}
+},
+"yibi.png":
+{
+	"frame": {"x":469,"y":1356,"w":47,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":22},
+	"sourceSize": {"w":47,"h":22}
+},
+"zhan.png":
+{
+	"frame": {"x":516,"y":1356,"w":32,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":34},
+	"sourceSize": {"w":32,"h":34}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "arena.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b5eded26c3b995581ee9833c4781a1dc:1/1$"
+}
+}

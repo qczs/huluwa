@@ -1,0 +1,44 @@
+{"frames": {
+
+"21.png":
+{
+	"frame": {"x":0,"y":0,"w":536,"h":511},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":536,"h":511},
+	"sourceSize": {"w":536,"h":511}
+},
+"6.png":
+{
+	"frame": {"x":0,"y":511,"w":642,"h":586},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":642,"h":586},
+	"sourceSize": {"w":642,"h":586}
+},
+"dialogbg.png":
+{
+	"frame": {"x":0,"y":1097,"w":640,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":192},
+	"sourceSize": {"w":640,"h":192}
+},
+"namebg.png":
+{
+	"frame": {"x":640,"y":1097,"w":106,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+	"sourceSize": {"w":106,"h":53}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "talk.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:997b0af588cdcb2e12ff88873ceaefd5:1/1$"
+}
+}

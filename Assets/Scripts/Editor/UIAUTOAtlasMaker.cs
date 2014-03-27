@@ -7,6 +7,10 @@ using System.IO;
 using System.Diagnostics;
 static public class UIAUTOAtlasMaker {
 	static public void MakeAtlas(string path){
+		MakeAtlas(path, null);
+	}
+
+	static public void MakeAtlas(string path,String[] ignores){
 
 		DirectoryInfo dir = new DirectoryInfo( Application.dataPath+"/"+path);
 		if(dir.Exists){
@@ -24,7 +28,14 @@ static public class UIAUTOAtlasMaker {
 			        "--max-height 2048 " +
 			        "--border-padding 0 " +
 			        "--shape-padding 0 "+
-					dir.FullName;
+					dir.FullName
+		
+					;
+			if (ignores != null){
+				for (int count = 0;count < ignores.Length;count++){
+					arguments += " --ignore-files *" + ignores[count] +"*";
+				}
+			}
 			UnityEngine.Debug.Log(fileName +" "+ arguments);
 			ProcessStartInfo info = new ProcessStartInfo (fileName, arguments);
 			info.UseShellExecute = false;
