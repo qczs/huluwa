@@ -1,0 +1,44 @@
+{"frames": {
+
+"friends/friends1.png":
+{
+	"frame": {"x":0,"y":0,"w":134,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":134,"h":113},
+	"sourceSize": {"w":136,"h":117}
+},
+"friends/friends2.png":
+{
+	"frame": {"x":0,"y":113,"w":134,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":117},
+	"sourceSize": {"w":136,"h":117}
+},
+"weibo/weibo1.png":
+{
+	"frame": {"x":0,"y":230,"w":133,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":133,"h":113},
+	"sourceSize": {"w":135,"h":117}
+},
+"weibo/weibo2.png":
+{
+	"frame": {"x":0,"y":343,"w":133,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":117},
+	"sourceSize": {"w":135,"h":117}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "share.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee69a48abc24293450fa90a18944bf53:1/1$"
+}
+}
