@@ -339,6 +339,7 @@
      <None Include="Assets\images\battle\effect\nuqibaoman_0.xml" />
      <None Include="Assets\images\battle\effect\beffect_7_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_20_0.xml" />
+     <None Include="Assets\Resources\ui\main\main.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text (AlphaClip).shader" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\PublishSettings.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_31.xml" />

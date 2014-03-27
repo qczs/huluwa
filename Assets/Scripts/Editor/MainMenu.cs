@@ -12,19 +12,25 @@ static public class  MainMenu  {
 
 	[MenuItem("发布/", false, 1)]
 	static void Breaker () { }
-	[MenuItem("发布/资源/login", false, 2)]
+	[MenuItem("发布/资源/UI/login", false, 2)]
 	static void MakeBreaker () {
 		UIAUTOAtlasMaker.MakeAtlas("images/login");
 	}
-	[MenuItem("发布/Android/android", false, 3)]
+
+	[MenuItem("发布/资源/UI/main", false, 3)]
+	static void MakemainBreaker () {
+		UIAUTOAtlasMaker.MakeAtlas("images/main");
+	}
+
+	[MenuItem("发布/Android/android", false, 4)]
 	static void buildAndroid () {
 		BulidTarget("Android","hlw");
 	}
-	[MenuItem("发布/IOS/iOS", false, 4)]
+	[MenuItem("发布/IOS/iOS", false, 5)]
 	static void buildiOS () {
 		BulidTarget("IOS","hlw");
 	}
-	[MenuItem("发布/IOS/iPhone", false, 5)]
+	[MenuItem("发布/IOS/iPhone", false, 6)]
 	static void buildiPhone () {
 		BulidTarget("IOS","hlw");
 	}

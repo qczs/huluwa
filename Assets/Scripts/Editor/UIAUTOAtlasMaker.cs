@@ -10,8 +10,8 @@ static public class UIAUTOAtlasMaker {
 
 		DirectoryInfo dir = new DirectoryInfo( Application.dataPath+"/"+path);
 		if(dir.Exists){
-			AssetDatabase.DeleteAsset(Application.dataPath+"/Resources/ui/"+dir.Name+"/"+dir.Name+".txt");
-			AssetDatabase.DeleteAsset(Application.dataPath+"/Resources/ui/"+dir.Name+"/"+dir.Name+".png");
+			AssetDatabase.DeleteAsset("/Resources/ui/"+dir.Name+"/"+dir.Name+".txt");
+			AssetDatabase.DeleteAsset("/Resources/ui/"+dir.Name+"/"+dir.Name+".png");
 			Process process;
 			string fileName = "/Applications/TexturePacker.app/Contents/MacOS/TexturePacker";
 			string arguments = 
@@ -34,8 +34,42 @@ static public class UIAUTOAtlasMaker {
 
 			string strRst = process.StandardOutput.ReadToEnd(); 
 			UnityEngine.Debug.Log(strRst);
-			AssetDatabase.Refresh();
 			process.Close();
+			AssetDatabase.Refresh();
+			string matPath = "Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".mat";
+			string prefabPath ="Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".prefab";
+			GameObject go = AssetDatabase.LoadAssetAtPath(prefabPath, typeof(GameObject)) as GameObject;
+			// Try to load the material
+			Material mat = AssetDatabase.LoadAssetAtPath(matPath, typeof(Material)) as Material;
+			TextAsset text = AssetDatabase.LoadAssetAtPath("Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".txt",typeof(TextAsset)) as TextAsset;
+			// If the material doesn't exist, create it
+			if (mat == null)
+			{
+				Shader shader = Shader.Find(NGUISettings.atlasPMA ? "Unlit/Premultiplied Colored" : "Unlit/Transparent Colored");
+				mat = new Material(shader);
+				mat.mainTexture = AssetDatabase.LoadAssetAtPath("Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".png",typeof(Texture)) as Texture;
+				// Save the material
+				AssetDatabase.CreateAsset(mat, matPath);
+				AssetDatabase.Refresh();
+				
+				// Load the material so it's usable
+				mat = AssetDatabase.LoadAssetAtPath(matPath, typeof(Material)) as Material;
+			}
+
+			// Create a new prefab for the atlas
+			UnityEngine.Object prefab = (go != null) ? go : PrefabUtility.CreateEmptyPrefab(prefabPath);
+			string atlasName = prefabPath.Replace(".prefab", "");
+			atlasName = atlasName.Substring(prefabPath.LastIndexOfAny(new char[] { '/', '\\' }) + 1);
+			go = new GameObject(atlasName);
+			UIAtlas uiAtlas = go.AddComponent<UIAtlas>();
+			uiAtlas.spriteMaterial = mat;
+			if (uiAtlas.texture != null) NGUIEditorTools.ImportTexture(uiAtlas.texture, false, false, !uiAtlas.premultipliedAlpha);
+			NGUIJson.LoadSpriteData(uiAtlas,text );
+			// Update the prefab
+			PrefabUtility.ReplacePrefab(go, prefab);
+			EditorWindow.DestroyImmediate(go);
+			AssetDatabase.SaveAssets();
+			AssetDatabase.Refresh();
 		}else{
 
 			UnityEngine.Debug.Log("no File " + path);
