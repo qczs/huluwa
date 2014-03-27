@@ -22,6 +22,11 @@ static public class  MainMenu  {
 		UIAUTOAtlasMaker.MakeAtlas("images/main");
 	}
 
+	[MenuItem("发布/资源/UI/base", false, 4)]
+	static void MakebaseBreaker () {
+		UIAUTOAtlasMaker.MakeAtlas("images/base");
+	}
+
 	[MenuItem("发布/Android/android", false, 4)]
 	static void buildAndroid () {
 		BulidTarget("Android","hlw");

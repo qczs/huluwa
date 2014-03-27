@@ -26,6 +26,7 @@ public class UIRoot : MonoBehaviour
 		PixelPerfect,
 		FixedSize,
 		FixedSizeOnMobiles,
+		FixedSizeOnWidth
 	}
 
 	/// <summary>
@@ -54,6 +55,7 @@ public class UIRoot : MonoBehaviour
 
 	public int maximumHeight = 1536;
 
+	public int manualWidth = 512;
 	/// <summary>
 	/// UI Root's active height, based on the size of the screen.
 	/// </summary>
@@ -63,14 +65,25 @@ public class UIRoot : MonoBehaviour
 		get
 		{
 			int height = Mathf.Max(2, Screen.height);
+			int width = Mathf.Max(2,Screen.width);
+
+
 			if (scalingStyle == Scaling.FixedSize) return manualHeight;
 
 #if UNITY_IPHONE || UNITY_ANDROID || UNITY_WP8 || UNITY_BLACKBERRY
 			if (scalingStyle == Scaling.FixedSizeOnMobiles)
 				return manualHeight;
 #endif
-			if (height < minimumHeight) return minimumHeight;
-			if (height > maximumHeight) return maximumHeight;
+			if(scalingStyle == Scaling.FixedSizeOnWidth){
+				float wsize =  (float)Screen.width/(float)manualWidth;
+				float fixedw = height/wsize;
+				height = (int)fixedw;
+			}
+			if (height < minimumHeight){
+				return minimumHeight;
+			}else if (height > maximumHeight){ 
+				return maximumHeight;
+			}
 			return height;
 		}
 	}
