@@ -59,14 +59,11 @@ public class UIRoot : MonoBehaviour
 	/// <summary>
 	/// UI Root's active height, based on the size of the screen.
 	/// </summary>
-
 	public int activeHeight
 	{
 		get
 		{
 			int height = Mathf.Max(2, Screen.height);
-			int width = Mathf.Max(2,Screen.width);
-
 
 			if (scalingStyle == Scaling.FixedSize) return manualHeight;
 
@@ -75,15 +72,18 @@ public class UIRoot : MonoBehaviour
 				return manualHeight;
 #endif
 			if(scalingStyle == Scaling.FixedSizeOnWidth){
+			
 				float wsize =  (float)Screen.width/(float)manualWidth;
 				float fixedw = height/wsize;
 				height = (int)fixedw;
+
 			}
 			if (height < minimumHeight){
-				return minimumHeight;
+				height= minimumHeight;
 			}else if (height > maximumHeight){ 
-				return maximumHeight;
+				height= maximumHeight;
 			}
+
 			return height;
 		}
 	}
@@ -119,6 +119,12 @@ public class UIRoot : MonoBehaviour
 		if (scalingStyle == Scaling.FixedSizeOnMobiles)
 			return (float)manualHeight / height;
 #endif
+		if(scalingStyle == Scaling.FixedSizeOnWidth){
+
+			float wsize =  (float)Screen.width/(float)manualWidth;
+			float fixedw = height/wsize;
+			height = (int)fixedw;
+		}
 		if (height < minimumHeight) return (float)minimumHeight / height;
 		if (height > maximumHeight) return (float)maximumHeight / height;
 		return 1f;
@@ -165,9 +171,13 @@ public class UIRoot : MonoBehaviour
 					!(Mathf.Abs(ls.z - size) <= float.Epsilon))
 				{
 					mTrans.localScale = new Vector3(size, size, size);
+					#if !UNITY_EDITOR && (UNITY_IPHONE || UNITY_ANDROID || UNITY_WP8 || UNITY_BLACKBERRY)
+						this.enabled = false;
+					#endif
 				}
 			}
 		}
+
 	}
 
 	/// <summary>
