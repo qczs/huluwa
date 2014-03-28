@@ -178,6 +178,8 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\Main.cs" />
      <Compile Include="Assets\Scripts\ui\LoginView.cs" />
+     <Compile Include="Assets\Scripts\ui\MainView.cs" />
+     <Compile Include="Assets\Scripts\ui\WujiangView.cs" />
      <None Include="Assets\images\battle\effect\meffect_34_d_9.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\images\battle\effect\meffect_28_0.xml" />
