@@ -8,9 +8,15 @@ public class Main : MonoBehaviour {
 	private Transform _transform;
 	void Start () {
 		main = this;
+
 		_transform = gameObject.transform;
 		ShowView("ui/LoginView");
 
+	}
+	void Awake ()
+	{
+		//修改当前的FPS
+		Application.targetFrameRate = 30;
 	}
 	public void HideView(GameObject go){
 		Destroy(go);

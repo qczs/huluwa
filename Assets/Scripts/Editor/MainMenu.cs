@@ -32,7 +32,10 @@ static public class  MainMenu  {
 		UIAUTOAtlasMaker.MakeAtlas("images/formation", ignores);
 	}
 
+	[MenuItem("发布/资源/AssetBundles", false, 6)]
+	static void MakeAssetBundles () {
 
+	}
 	[MenuItem("发布/Android/android", false, 4)]
 	static void buildAndroid () {
 		BulidTarget("Android","hlw");
