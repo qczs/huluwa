@@ -26,6 +26,12 @@ static public class  MainMenu  {
 	static void MakebaseBreaker () {
 		UIAUTOAtlasMaker.MakeAtlas("images/base");
 	}
+	[MenuItem("发布/资源/UI/formation", false, 5)]
+	static void MakeformationBreaker () {
+		String[] ignores = {"formationbg"};
+		UIAUTOAtlasMaker.MakeAtlas("images/formation", ignores);
+	}
+
 
 	[MenuItem("发布/Android/android", false, 4)]
 	static void buildAndroid () {
