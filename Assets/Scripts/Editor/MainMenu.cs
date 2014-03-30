@@ -33,8 +33,8 @@ static public class  MainMenu  {
 	}
 
 	[MenuItem("发布/资源/AssetBundles", false, 6)]
-	static void MakeAssetBundles () {
-
+	static void MakeassetBundles () {
+		MakeAssetBundles.Make();
 	}
 	[MenuItem("发布/Android/android", false, 4)]
 	static void buildAndroid () {
