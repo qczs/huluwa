@@ -177,10 +177,13 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\Main.cs" />
+     <Compile Include="Assets\Scripts\ResourcesData\Skills.cs" />
      <Compile Include="Assets\Scripts\ui\LoginView.cs" />
      <Compile Include="Assets\Scripts\ui\MainView.cs" />
      <Compile Include="Assets\Scripts\ui\WujiangView.cs" />
+     <Compile Include="Assets\Scripts\utils\ResourceManager.cs" />
      <Compile Include="Assets\Scripts\utils\ShowFPS.cs" />
+     <Compile Include="Assets\Scripts\utils\TimeUtil.cs" />
      <None Include="Assets\images\battle\effect\meffect_34_d_9.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\images\battle\effect\meffect_28_0.xml" />
@@ -686,6 +689,7 @@
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_0.xml" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_11.xml" />
      <None Include="Assets\Resources\ui\item\item.txt" />
+     <None Include="Assets\Resources\data\skills.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_d_5.xml" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
      <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />

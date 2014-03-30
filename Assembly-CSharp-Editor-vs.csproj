@@ -631,6 +631,7 @@
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_0.xml" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_11.xml" />
      <None Include="Assets\Resources\ui\item\item.txt" />
+     <None Include="Assets\Resources\data\skills.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_d_5.xml" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
      <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
