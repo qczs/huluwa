@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datas>
+ <data skillID="1001" skillType="1" skillName="一击必杀1" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+ <data skillID="1002" skillType="1" skillName="一击必杀2" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+ <data skillID="1003" skillType="1" skillName="一击必杀3" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+ <data skillID="1004" skillType="1" skillName="一击必杀4" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+ <data skillID="1005" skillType="1" skillName="一击必杀5" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+ <data skillID="1006" skillType="1" skillName="一击必杀6" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+ <data skillID="1007" skillType="1" skillName="一击必杀7" equipCondition="0" learnCondition="0" learnMoney="0" skillLevel="1" skillDamage="0" angerCost="0" conjureTime="0" coolDownTime="0" scopeType="2" scope="4" effectID="0" effectRate="0" hitFlyDis="2" />
+</datas>
