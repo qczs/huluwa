@@ -14,14 +14,14 @@ static public class UIAUTOAtlasMaker {
 
 		DirectoryInfo dir = new DirectoryInfo( Application.dataPath+"/"+path);
 		if(dir.Exists){
-			AssetDatabase.DeleteAsset("/Resources/ui/"+dir.Name+"/"+dir.Name+".txt");
-			AssetDatabase.DeleteAsset("/Resources/ui/"+dir.Name+"/"+dir.Name+".png");
+			AssetDatabase.DeleteAsset("/ui/"+dir.Name+"/"+dir.Name+".txt");
+			AssetDatabase.DeleteAsset("/ui/"+dir.Name+"/"+dir.Name+".png");
 			Process process;
 			string fileName = "/Applications/TexturePacker.app/Contents/MacOS/TexturePacker";
 			string arguments = 
 				"--format unity " +
-					"--data "+Application.dataPath+"/Resources/ui/"+dir.Name+"/"+dir.Name+".txt " +
-					"--sheet "+Application.dataPath+"/Resources/ui/"+dir.Name+"/"+dir.Name+".png " +
+					"--data "+Application.dataPath+"/ui/"+dir.Name+"/"+dir.Name+".txt " +
+					"--sheet "+Application.dataPath+"/ui/"+dir.Name+"/"+dir.Name+".png " +
 					"--opt RGBA8888 " +
 					"--algorithm Basic --basic-sort-by Best "+
 			        "--max-width 2048 " +
@@ -47,18 +47,18 @@ static public class UIAUTOAtlasMaker {
 			UnityEngine.Debug.Log(strRst);
 			process.Close();
 			AssetDatabase.Refresh();
-			string matPath = "Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".mat";
-			string prefabPath ="Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".prefab";
+			string matPath = "Assets/ui/"+dir.Name+"/"+dir.Name+".mat";
+			string prefabPath ="Assets/ui/"+dir.Name+"/"+dir.Name+".prefab";
 			GameObject go = AssetDatabase.LoadAssetAtPath(prefabPath, typeof(GameObject)) as GameObject;
 			// Try to load the material
 			Material mat = AssetDatabase.LoadAssetAtPath(matPath, typeof(Material)) as Material;
-			TextAsset text = AssetDatabase.LoadAssetAtPath("Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".txt",typeof(TextAsset)) as TextAsset;
+			TextAsset text = AssetDatabase.LoadAssetAtPath("Assets/ui/"+dir.Name+"/"+dir.Name+".txt",typeof(TextAsset)) as TextAsset;
 			// If the material doesn't exist, create it
 			if (mat == null)
 			{
 				Shader shader = Shader.Find(NGUISettings.atlasPMA ? "Unlit/Premultiplied Colored" : "Unlit/Transparent Colored");
 				mat = new Material(shader);
-				mat.mainTexture = AssetDatabase.LoadAssetAtPath("Assets/Resources/ui/"+dir.Name+"/"+dir.Name+".png",typeof(Texture)) as Texture;
+				mat.mainTexture = AssetDatabase.LoadAssetAtPath("Assets/ui/"+dir.Name+"/"+dir.Name+".png",typeof(Texture)) as Texture;
 				// Save the material
 				AssetDatabase.CreateAsset(mat, matPath);
 				AssetDatabase.Refresh();
