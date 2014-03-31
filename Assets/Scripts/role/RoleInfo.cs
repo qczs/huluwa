@@ -1,111 +1,37 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class RoleInfo {
+public class RoleInfo : BaseRole {
 
-	private long roleId;
-	
-	public long RoleId {
-		get { return roleId; }
-		set { roleId = value; }
-	}
+	public long roleId { get; set; }
 
-	private string roleName;
-	
-	public string RoleName {
-		get { return roleName; }
-		set { roleName = value; }
-	}
+	public string roleName { get; set; }
 
-	private string roleImg;
-	
-	public string RoleImg {
-		get { return roleImg; }
-		set { roleImg = value; }
-	}
+	public string roleImg { get; set; }
 
-	private int rolelv;
-	
-	public int Rolelv {
-		get { return rolelv; }
-		set { rolelv = value; }
-	}
+	public int rolelv{ get; set; }
 
-	private int viplv;
-	
-	public int Viplv {
-		get { return viplv; }
-		set { viplv = value; }
-	}
+	public int viplv{ get; set; }
 
-	private int exp;
-	
-	public int Exp {
-		get { return exp; }
-		set { exp = value; }
-	}
+	public int exp{ get; set; }
 
-	private int power;
-	
-	public int Power {
-		get { return power; }
-		set { power = value; }
-	}
+	public int power { get; set; }
 
-	private int gold;
-	
-	public int Gold {
-		get { return gold; }
-		set { gold = value; }
-	}
+	public int gold { get; set; }
 
-	private int silver;
-	
-	public int Silver {
-		get { return silver; }
-		set { silver = value; }
-	}
+	public int silver { get; set; }
 
-	private int jianghun;
-	
-	public int Jianghun {
-		get { return jianghun; }
-		set { jianghun = value; }
-	}
+	public int jianghun{ get; set; }
 
-	private int hunyu;
-	
-	public int Hunyu {
-		get { return hunyu; }
-		set { hunyu = value; }
-	}
+	public int hunyu{ get; set; }
 
-	private int physical;
-	
-	public int Physical {
-		get { return physical; }
-		set { physical = value; }
-	}
+	public int physical{ get; set; }
 
-	private int stamina;
-	
-	public int Stamina {
-		get { return stamina; }
-		set { stamina = value; }
-	}
+	public int stamina{ get; set; }
 
-	private int physicalCount;
+	public int physicalCount{ get; set; }
 	
-	public int PhysicalCount {
-		get { return physicalCount; }
-		set { physicalCount = value; }
-	}
-	
-	private int staminaCount;
-	
-	public int StaminaCount {
-		get { return staminaCount; }
-		set { staminaCount = value; }
-	}
+	public int staminaCount{ get; set; }
+
 
 }

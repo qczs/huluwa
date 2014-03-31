@@ -23,6 +23,8 @@ public class LoginView : MonoBehaviour {
 		if (Debug.isDebugBuild) {
 			Debug.Log ("skill :" +skill.ToString());
 		}
+		RoleManager.getInstance().roleInfo.roleName = "abcd";
+		RoleManager.getInstance().roleInfo.updateType = true;
 	}
 
 

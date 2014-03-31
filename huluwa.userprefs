@@ -5,11 +5,14 @@
       <File FileName="Assets/Scripts/Editor/MainMenu.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Main.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/utils/ShowFPS.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/utils/ResourceManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ResourcesData/Skills.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/utils/TimeUtil.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ui/WujiangView.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ui/LoginView.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/ui/LoginView.cs" Line="26" Column="54" />
+      <File FileName="Assets/Scripts/role/RoleManager.cs" Line="21" Column="2" />
+      <File FileName="Assets/Scripts/utils/ResourceManager.cs" Line="23" Column="1" />
+      <File FileName="../huluwa1/Assets/Scripts/utils/ResourceManager.cs" Line="44" Column="21" />
+      <File FileName="Assets/Scripts/ResourcesData/Skills.cs" Line="17" Column="8" />
+      <File FileName="Assets/Scripts/ui/MainView.cs" Line="16" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

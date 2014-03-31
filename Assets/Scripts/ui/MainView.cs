@@ -12,7 +12,15 @@ public class MainView : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
+		if (RoleManager.getInstance().roleInfo.updateType){
+			UILabel UILabel = GameObject.Find("uname").GetComponent<UILabel>();
+			UILabel.text = RoleManager.getInstance().roleInfo.roleName;
+			RoleManager.getInstance().roleInfo.updateType = false;
+			long a = TimeUtil.UNIX_TIMESTAMP (System.DateTime.Now);
+			Debug.Log ("a :" + a);
+		}
+
 	}
 
 	void Awake ()
