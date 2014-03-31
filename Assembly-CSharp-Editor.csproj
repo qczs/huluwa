@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE;HLW;ENABLE_DUCK_TYPING</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -124,6 +124,7 @@
      <Compile Include="Assets\NGUI\Scripts\Editor\UIWidgetContainerEditor.cs" />
      <Compile Include="Assets\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
      <Compile Include="Assets\Scripts\Editor\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\Editor\MakeAssetBundles.cs" />
      <Compile Include="Assets\Scripts\Editor\UIAUTOAtlasMaker.cs" />
      <Compile Include="Assets\Scripts\Editor\UpdateXcodeProject.cs" />
      <None Include="Assets\images\battle\effect\meffect_34_d_9.xml" />
@@ -149,15 +150,15 @@
      <None Include="Assets\images\battle\effect\heffect_1_1.xml" />
      <None Include="Assets\images\battle\effect\fuhuo_1_0.xml" />
      <None Include="Assets\images\battle\xml\report\zhandoushibai_1.xml" />
-     <None Include="Assets\Resources\ui\chat\chat.txt" />
-     <None Include="Assets\Resources\ui\upgrade\upgrade.txt" />
+     <None Include="Assets\ui\chat\chat.txt" />
+     <None Include="Assets\ui\upgrade\upgrade.txt" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_8.xml" />
      <None Include="Assets\images\battle\effect\bullet_9_0.xml" />
      <None Include="Assets\images\base\effect\load\load4_6.xml" />
      <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
      <None Include="Assets\images\battle\effect\beffect_7_1.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_u_0.xml" />
-     <None Include="Assets\Resources\ui\active\active.txt" />
+     <None Include="Assets\ui\active\active.txt" />
      <None Include="Assets\images\battle\effect\meffect_30_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_40_d_0.xml" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
@@ -170,7 +171,7 @@
      <None Include="Assets\images\level_reward\dengjilibao\dengjilibao_0.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_0.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_20.xml" />
-     <None Include="Assets\Resources\ui\sign\sign.txt" />
+     <None Include="Assets\ui\sign\sign.txt" />
      <None Include="Assets\images\battle\xml\report\zhandoushengli01_1.xml" />
      <None Include="Assets\images\base\effect\item\jinbizhaojiangbao_1.xml" />
      <None Include="Assets\images\battle\effect\zhuangjitx_0.xml" />
@@ -185,7 +186,7 @@
      <None Include="Assets\images\battle\effect\meffect_13_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_36_3.xml" />
      <None Include="Assets\images\battle\effect\meffect_26_2.xml" />
-     <None Include="Assets\Resources\ui\guide\guide.txt" />
+     <None Include="Assets\ui\guide\guide.txt" />
      <None Include="Assets\images\battle\effect\fuhuo_2_3.xml" />
      <None Include="Assets\images\guide\effect\heidong\heidong_0.xml" />
      <None Include="Assets\images\battle\effect\beffect_2_1.xml" />
@@ -196,13 +197,13 @@
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_19.xml" />
      <None Include="Assets\images\battle\effect\zongshanghai_1.xml" />
      <None Include="Assets\images\base\effect\chat\liaotian_1.xml" />
-     <None Include="Assets\Resources\ui\copy\copy.txt" />
+     <None Include="Assets\ui\copy\copy.txt" />
      <None Include="Assets\images\battle\effect\fubendiaoluo_0.xml" />
      <None Include="Assets\images\pet\effect\jianchihu_stand\jianchihu_stand_9.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_d_0.xml" />
      <None Include="Assets\images\base\effect\loot\chenggonglueduo_u_0.xml" />
      <None Include="Assets\images\guide\effect\jiewei\jiewei_1.xml" />
-     <None Include="Assets\Resources\ui\astrology\astrology.txt" />
+     <None Include="Assets\ui\astrology\astrology.txt" />
      <None Include="Assets\images\battle\effect\heffect_3_0.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Dynamic Font (AlphaClip).shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
@@ -242,14 +243,14 @@
      <None Include="Assets\images\battle\skill\bullet_16_1.xml" />
      <None Include="Assets\images\base\effect\load\load4_4.xml" />
      <None Include="Assets\images\battle\effect\beffect_11_1.xml" />
-     <None Include="Assets\Resources\ui\arena\arena.txt" />
+     <None Include="Assets\ui\arena\arena.txt" />
      <None Include="Assets\images\battle\effect\meffect_38_d_0.xml" />
      <None Include="Assets\images\base\effect\item\qianghuachenggong_0.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (AlphaClip) .shader" />
      <None Include="Assets\images\battle\effect\heffect_5_2.xml" />
      <None Include="Assets\images\battle\effect\meffect_46_1.xml" />
      <None Include="Assets\images\pet\effect\jianchihu_stand\jianchihu_stand_2.xml" />
-     <None Include="Assets\Resources\ui\shop\shop.txt" />
+     <None Include="Assets\ui\shop\shop.txt" />
      <None Include="Assets\images\battle\effect\meffect_44_1.xml" />
      <None Include="Assets\images\base\effect\loot\chenggonglueduo_u_1.xml" />
      <None Include="Assets\images\battle\effect\meffect_41_d_0.xml" />
@@ -257,7 +258,7 @@
      <None Include="Assets\images\guide\effect\jiewei\jiewei_0.xml" />
      <None Include="Assets\images\battle\effect\heffect_5_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_37_0.xml" />
-     <None Include="Assets\Resources\ui\friend\friend.txt" />
+     <None Include="Assets\ui\friend\friend.txt" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_13.xml" />
      <None Include="Assets\images\treasure\effect\light_0.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_19.xml" />
@@ -279,9 +280,10 @@
      <None Include="Assets\images\battle\effect\bullet_7_0.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_14.xml" />
      <None Include="Assets\images\battle\effect\meffect_30_2.xml" />
-     <None Include="Assets\Resources\ui\new_user\new_user.txt" />
+     <None Include="Assets\ui\new_user\new_user.txt" />
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_7.xml" />
      <None Include="Assets\images\battle\effect\meffect_28_4.xml" />
+     <None Include="Assets\Resources\data\skills.xml" />
      <None Include="Assets\images\base\effect\loot\chenggonglueduo_d_6.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
      <None Include="Assets\images\battle\effect\beffect_8_1.xml" />
@@ -321,11 +323,11 @@
      <None Include="Assets\images\battle\effect\meffect_4_7.xml" />
      <None Include="Assets\images\battle\effect\nuqitouxiang_0.xml" />
      <None Include="Assets\images\battle\effect\heffect_4_2.xml" />
-     <None Include="Assets\Resources\ui\hero\hero.txt" />
-     <None Include="Assets\Resources\ui\switch\switch.txt" />
+     <None Include="Assets\ui\hero\hero.txt" />
+     <None Include="Assets\ui\switch\switch.txt" />
      <None Include="Assets\images\battle\effect\heffect_4_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_u_2.xml" />
-     <None Include="Assets\Resources\ui\talk\talk.txt" />
+     <None Include="Assets\ui\talk\talk.txt" />
      <None Include="Assets\images\battle\effect\dead_1.xml" />
      <None Include="Assets\images\battle\effect\quanji_d_0.xml" />
      <None Include="Assets\images\battle\effect\lvdou_1.xml" />
@@ -353,7 +355,7 @@
      <None Include="Assets\images\battle\effect\nuqibaoman_0.xml" />
      <None Include="Assets\images\battle\effect\beffect_7_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_20_0.xml" />
-     <None Include="Assets\Resources\ui\main\main.txt" />
+     <None Include="Assets\ui\main\main.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text (AlphaClip).shader" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\PublishSettings.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_31.xml" />
@@ -378,7 +380,7 @@
      <None Include="Assets\images\pet\effect\jianchihu_stand\jianchihu_stand_3.xml" />
      <None Include="Assets\images\battle\effect\meffect_10_1.xml" />
      <None Include="Assets\images\battle\effect\nuqi_1.xml" />
-     <None Include="Assets\Resources\ui\online\online.txt" />
+     <None Include="Assets\ui\online\online.txt" />
      <None Include="Assets\images\battle\effect\heffect_12_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_47_1.xml" />
      <None Include="Assets\images\battle\effect\meffect_27_1.xml" />
@@ -417,7 +419,7 @@
      <None Include="Assets\images\battle\effect\quanji_u_0.xml" />
      <None Include="Assets\images\battle\effect\bullet_10_0.xml" />
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_1.xml" />
-     <None Include="Assets\Resources\ui\menu\menu.txt" />
+     <None Include="Assets\ui\menu\menu.txt" />
      <None Include="Assets\images\battle\effect\heffect_10_0.xml" />
      <None Include="Assets\images\battle\effect\heffect_6_1.xml" />
      <None Include="Assets\images\battle\effect\bullet_2_0.xml" />
@@ -427,7 +429,7 @@
      <None Include="Assets\images\battle\effect\meffect_19_1.xml" />
      <None Include="Assets\images\battle\effect\beffect_9_0.xml" />
      <None Include="Assets\images\base\effect\levelup\shengji_1.xml" />
-     <None Include="Assets\Resources\ui\tip\tip.txt" />
+     <None Include="Assets\ui\tip\tip.txt" />
      <None Include="Assets\images\battle\effect\bullet_8_25.xml" />
      <None Include="Assets\images\guide\effect\heidong\heidong_1.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_u_7.xml" />
@@ -464,7 +466,7 @@
      <None Include="Assets\images\battle\xml\report\zhandoushengli03_0.xml" />
      <None Include="Assets\images\battle\xml\report\zhandoushengli01_5.xml" />
      <None Include="Assets\images\battle\effect\meffect_17_1.xml" />
-     <None Include="Assets\Resources\ui\level_reward\level_reward.txt" />
+     <None Include="Assets\ui\level_reward\level_reward.txt" />
      <None Include="Assets\images\battle\effect\lvbuchuanci_d_0.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (SoftClip).shader" />
      <None Include="Assets\images\battle\effect\meffect_14_2.xml" />
@@ -474,7 +476,7 @@
      <None Include="Assets\images\base\effect\copy\fbjdmu_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_49_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_28_3.xml" />
-     <None Include="Assets\Resources\ui\strengthen_place\strengthen_place.txt" />
+     <None Include="Assets\ui\strengthen_place\strengthen_place.txt" />
      <None Include="Assets\images\battle\effect\bullet_5_2.xml" />
      <None Include="Assets\images\base\effect\astro\zhanxingbao_1.xml" />
      <None Include="Assets\images\base\effect\load\load4_3.xml" />
@@ -525,8 +527,8 @@
      <None Include="Assets\images\battle\effect\heffect_6_2.xml" />
      <None Include="Assets\images\battle\xml\action\T004_d_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_16_1.xml" />
-     <None Include="Assets\Resources\ui\bag\bag.txt" />
-     <None Include="Assets\Resources\ui\formation\formation.txt" />
+     <None Include="Assets\ui\bag\bag.txt" />
+     <None Include="Assets\ui\formation\formation.txt" />
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_3.xml" />
      <None Include="Assets\images\battle\effect\meffect_16_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_41_u_0.xml" />
@@ -556,12 +558,12 @@
      <None Include="Assets\images\battle\effect\meffect_49_1.xml" />
      <None Include="Assets\images\battle\effect\bullet_7_1.xml" />
      <None Include="Assets\images\battle\effect\beffect_6_2.xml" />
-     <None Include="Assets\Resources\ui\match\match.txt" />
+     <None Include="Assets\ui\match\match.txt" />
      <None Include="Assets\images\battle\buff\beffect_15_0.xml" />
      <None Include="Assets\images\battle\xml\report\zhandoushibai_6.xml" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_21.xml" />
      <None Include="Assets\images\pet\effect\jianchihu_stand\jianchihu_stand_1.xml" />
-     <None Include="Assets\Resources\ui\mail\mail.txt" />
+     <None Include="Assets\ui\mail\mail.txt" />
      <None Include="Assets\images\base\effect\enhance\qianghuachenggong_1.xml" />
      <None Include="Assets\images\battle\effect\bullet_6_3.xml" />
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_2.xml" />
@@ -594,7 +596,7 @@
      <None Include="Assets\images\base\effect\item\zhaojiangxingji_1.xml" />
      <None Include="Assets\images\battle\effect\meffect_4_4.xml" />
      <None Include="Assets\images\battle\xml\report\zhandoushibai_7.xml" />
-     <None Include="Assets\Resources\ui\login\login.txt" />
+     <None Include="Assets\ui\login\login.txt" />
      <None Include="Assets\images\battle\effect\bullet_1_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_34_d_2.xml" />
      <None Include="Assets\images\base\effect\enhance\qianghuachenggong2_3.xml" />
@@ -630,8 +632,7 @@
      <None Include="Assets\images\battle\effect\heffect_11_0.xml" />
      <None Include="Assets\images\pet\effect\xiongmao_stand\xiongmao_stand_0.xml" />
      <None Include="Assets\images\pet\effect\xiaoma_stand\xiaoma_stand_11.xml" />
-     <None Include="Assets\Resources\ui\item\item.txt" />
-     <None Include="Assets\Resources\data\skills.xml" />
+     <None Include="Assets\ui\item\item.txt" />
      <None Include="Assets\images\battle\effect\meffect_34_d_5.xml" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
      <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
@@ -663,7 +664,7 @@
      <None Include="Assets\images\battle\effect\meffect_37_2.xml" />
      <None Include="Assets\images\battle\effect\meffect_19_2.xml" />
      <None Include="Assets\images\battle\effect\meffect_28_5.xml" />
-     <None Include="Assets\Resources\ui\share\share.txt" />
+     <None Include="Assets\ui\share\share.txt" />
      <None Include="Assets\images\battle\effect\heffect_8_2.xml" />
      <None Include="Assets\images\battle\effect\meffect_24_1.xml" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
@@ -685,7 +686,7 @@
      <None Include="Assets\images\battle\effect\meffect_28_2.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_12.xml" />
      <None Include="Assets\images\battle\effect\meffect_40_u_0.xml" />
-     <None Include="Assets\Resources\ui\recharge\recharge.txt" />
+     <None Include="Assets\ui\recharge\recharge.txt" />
      <None Include="Assets\images\battle\effect\fubendiaoluo_1.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
      <None Include="Assets\images\battle\effect\beffect_8_3.xml" />
@@ -702,7 +703,7 @@
      <None Include="Assets\images\battle\effect\beffect_11_3.xml" />
      <None Include="Assets\images\battle\effect\meffect_26_0.xml" />
      <None Include="Assets\images\base\effect\copy\fbjdjin_1.xml" />
-     <None Include="Assets\Resources\ui\intro\intro.txt" />
+     <None Include="Assets\ui\intro\intro.txt" />
      <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
      <None Include="Assets\images\battle\effect\meffect_12_1.xml" />
      <None Include="Assets\images\battle\effect\bullet_8_32.xml" />
@@ -732,9 +733,9 @@
      <None Include="Assets\images\battle\effect\bullet_11_1.xml" />
      <None Include="Assets\images\battle\xml\report\zhandoushengli01_2.xml" />
      <None Include="Assets\images\base\effect\hero\transfer\zhuangchang_1.xml" />
-     <None Include="Assets\Resources\ui\common\common.txt" />
+     <None Include="Assets\ui\common\common.txt" />
      <None Include="Assets\images\battle\effect\meffect_48_0.xml" />
-     <None Include="Assets\Resources\ui\treasure\treasure.txt" />
+     <None Include="Assets\ui\treasure\treasure.txt" />
      <None Include="Assets\images\battle\xml\action\hurt3_d_0.xml" />
      <None Include="Assets\images\battle\effect\meffect_17_0.xml" />
      <None Include="Assets\images\base\effect\loot\chenggonglueduo_u_2.xml" />
