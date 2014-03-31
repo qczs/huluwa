@@ -15,7 +15,7 @@ public class RoleManager {
 		return instance;  
 	}
 
-	private static RoleInfo roleInfo;
+	public static RoleInfo roleInfo { get; set; }
 
 	public static void init(){
 		roleInfo = new RoleInfo();
@@ -25,11 +25,5 @@ public class RoleManager {
 		roleInfo = null;
 		instance = null;
 	}
-
-	public RoleInfo RoleInfo {
-		get { return roleInfo; }
-		set { roleInfo = value; }
-	}
-	
 
 }

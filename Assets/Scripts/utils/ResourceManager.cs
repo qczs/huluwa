@@ -23,10 +23,10 @@ public class ResourceManager
 		{
 				Skills skills = new Skills();
 				XmlElement note = getXmlAttribute ("skills", "skillID", id);
-				skills.SkillID = int.Parse(note.GetAttribute("skillID"));
-				skills.SkillType = int.Parse(note.GetAttribute("skillType"));
-				skills.SkillName = note.GetAttribute("skillName");
-				skills.EquipCondition = int.Parse(note.GetAttribute("equipCondition"));
+				skills.skillID = int.Parse(note.GetAttribute("skillID"));
+				skills.skillType = int.Parse(note.GetAttribute("skillType"));
+				skills.skillName = note.GetAttribute("skillName");
+				skills.equipCondition = int.Parse(note.GetAttribute("equipCondition"));
 
 				return skills;
 		}
