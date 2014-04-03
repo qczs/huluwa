@@ -22,7 +22,7 @@ public class WWWLoader : MonoBehaviour
 	public void Load(string path,LoaderManager.OnLoadComplete callback){
 		onLoadCallBack = callback;
 		string localPath = Application.dataPath +"/"+ path + ".prefab";
-		Debug.Log(localPath);
+
 		if(File.Exists(localPath)){
 			StartCoroutine(loadBundle("Assets/"+path+".prefab")); 
 		}else{
@@ -32,20 +32,20 @@ public class WWWLoader : MonoBehaviour
 	}
 	private IEnumerator loadBundle(string name){
 
-		Debug.Log(name);
+
 	 	yield return new WaitForSeconds(0.01f);
 		Object assetBundle = Resources.LoadAssetAtPath<Object>(name);
 		onLoadCallBack(assetBundle);
 	}
 
 	private IEnumerator loadBundleFromLocal(string path){
-		Debug.Log("loadBundleFromLocal "+path);
+
 		using(WWW www = new WWW(path)){
 			yield return www;
 			if(www.error == null){
 				onLoadCallBack(www.assetBundle.mainAsset);
 				www.assetBundle.Unload(false);
-				Debug.Log("load data frome local succeed...");
+
 			}
 		}
 	}

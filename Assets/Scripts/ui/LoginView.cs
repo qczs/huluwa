@@ -11,6 +11,7 @@ public class LoginView : MonoBehaviour {
 		//设置这个按钮的监听，指向本类的ButtonClick方法中。
 //		UIButton btn = btnLogin.GetComponent<UIButton>();
 //		btn.onClick =ButtonClick
+		btnLogin = GameObject.Find("btnLogin");
 		UIEventListener.Get(btnLogin).onClick = ButtonClick;
 	
 	}

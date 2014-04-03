@@ -33,7 +33,7 @@ public class ScenesManager
 		IScene scene=null;
 
 		if(scenesOpenList.TryGetValue(name,out scene)){
-			scene.Open();
+			scene.Update();
 		}else{
 			scene = ScenesConfig.GetSceneByName(name);
 			scenesOpenList.Add(name,scene);

@@ -2,24 +2,24 @@ using UnityEngine;
 using System.Collections;
 using Scenes;
 namespace Scenes{
-	public class LoginScene : IScene
-	{
-		public LoginScene(){
+public class FormationScene : IScene
+{
+		public FormationScene(){
 			destroyOnClose = true;
 		}
 		public override string GetViewName(){
-			return ScenesConfig.LOGINSCENE;
+			return ScenesConfig.FORMATIONVIEW;
 		}
 		public override string GetViewPath(){
-			return "ui/LoginView";
+			return "ui/FormationView";
 		}
 		protected override void AddComponents(){
-			gameobject.AddComponent<LoginView>();
+
 		}
 		public override Transform GetParent(){
 			return ScenesManager.scenesManager.stage.transform;
 		}
-			
-	}
+
+}
 }
 

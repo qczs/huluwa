@@ -14,7 +14,9 @@ public class MainScene : IScene
 		public override string GetViewPath(){
 			return "ui/MainView";
 		}
-		
+		protected override void AddComponents(){
+			gameobject.AddComponent<MainView>();
+		}
 		public override Transform GetParent(){
 			return ScenesManager.scenesManager.stage.transform;
 		}
