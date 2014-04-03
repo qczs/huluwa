@@ -15,7 +15,7 @@ public class WujiangView : MonoBehaviour {
 
 	void ButtonClick(GameObject button)
 	{
-		Main.main.ShowView("ui/MainView");
-		Main.main.HideView(gameObject);	
+//		Main.main.ShowView("ui/MainView");
+//		Main.main.HideView(gameObject);	
 	}
 }
