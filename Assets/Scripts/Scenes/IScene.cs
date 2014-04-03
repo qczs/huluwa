@@ -16,18 +16,19 @@ namespace Scenes{
 		protected void OnLoadComplete(Object assetBundle){
 			if(!loaded){
 				loaded = true;
-				Transform parent = GetParent();
-				gameobject = GameObject.Instantiate(assetBundle,parent.position,parent.rotation) as GameObject;
-				gameobject.transform.parent = parent;
-				gameobject.transform.localScale = parent.localScale;
-				gameobject.layer = parent.gameObject.layer;
+				GameObject parent = GetParent();
+				Transform tf = parent.transform;
+				gameobject = GameObject.Instantiate(assetBundle,tf.position,tf.rotation) as GameObject;
+				gameobject.transform.parent = tf;
+				gameobject.transform.localScale = tf.localScale;
+				gameobject.layer = parent.layer;
 				AddComponents();
 			}
 		}
 		protected abstract void AddComponents();
 		public abstract string GetViewName();
 		public abstract string GetViewPath();
-		public abstract Transform GetParent();
+		public abstract GameObject GetParent();
 		public  void Update(){
 
 		}

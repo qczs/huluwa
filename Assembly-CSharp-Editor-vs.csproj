@@ -742,6 +742,9 @@
      <None Include="Assets\images\battle\effect\meffect_21_1.xml" />
      <None Include="Assets\images\battle\effect\bullet_6_0.xml" />
      <None Include="Assets\images\battle\effect\meffevt_15_1.xml" />
+ <Reference Include="Library\ScriptAssemblies\Assembly-Boo">
+ <HintPath>Library\ScriptAssemblies\Assembly-Boo.dll</HintPath>
+ </Reference>
  <Reference Include="\Applications\Unity\Unity.app\Contents\Frameworks\Managed\UnityEditor.Graphs">
  <HintPath>\Applications\Unity\Unity.app\Contents\Frameworks\Managed\UnityEditor.Graphs.dll</HintPath>
  </Reference>

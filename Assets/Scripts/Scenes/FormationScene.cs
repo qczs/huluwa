@@ -16,8 +16,8 @@ public class FormationScene : IScene
 		protected override void AddComponents(){
 
 		}
-		public override Transform GetParent(){
-			return ScenesManager.scenesManager.stage.transform;
+		public override GameObject GetParent(){
+			return ScenesManager.scenesManager.centerPanel;
 		}
 
 }

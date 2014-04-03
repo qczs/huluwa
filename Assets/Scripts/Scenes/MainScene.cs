@@ -16,9 +16,11 @@ public class MainScene : IScene
 		}
 		protected override void AddComponents(){
 			gameobject.AddComponent<MainView>();
+			ScenesManager.scenesManager.centerPanel = GameObject.Find("centerPanel");
+
 		}
-		public override Transform GetParent(){
-			return ScenesManager.scenesManager.stage.transform;
+		public override GameObject GetParent(){
+			return ScenesManager.scenesManager.stage.gameObject;
 		}
 }
 }

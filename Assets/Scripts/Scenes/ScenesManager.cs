@@ -6,7 +6,9 @@ public class ScenesManager
 {
 	private static ScenesManager _scenesManager;
 	public MonoBehaviour stage;
-
+	public GameObject topPanel;
+	public GameObject buttomPanel;
+	public GameObject centerPanel;
 	public int stageHeight=0;
 	public int stageWidth = 0;
 	private IDictionary<string,IScene> scenesOpenList;

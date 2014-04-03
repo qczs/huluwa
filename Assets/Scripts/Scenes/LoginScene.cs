@@ -16,8 +16,8 @@ namespace Scenes{
 		protected override void AddComponents(){
 			gameobject.AddComponent<LoginView>();
 		}
-		public override Transform GetParent(){
-			return ScenesManager.scenesManager.stage.transform;
+		public override GameObject GetParent(){
+			return ScenesManager.scenesManager.stage.gameObject;
 		}
 			
 	}

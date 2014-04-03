@@ -11,23 +11,21 @@ public class LoginView : MonoBehaviour {
 		//设置这个按钮的监听，指向本类的ButtonClick方法中。
 //		UIButton btn = btnLogin.GetComponent<UIButton>();
 //		btn.onClick =ButtonClick
+		btnLogin = GameObject.Find("btnLogin");
 		UIEventListener.Get(btnLogin).onClick = ButtonClick;
 	
 	}
 
 	void ButtonClick(GameObject button)
 	{
-		Main.main.ShowView("ui/MainView");
-		Main.main.HideView(gameObject);
-		Skills skill = ResourceManager.getInstance().getSkills("1007");
-		if (Debug.isDebugBuild) {
-			Debug.Log ("skill :" +skill.ToString());
-		}
-		RoleManager.getInstance().roleInfo.roleName = "abcd";
-//		RoleManager.getInstance().roleInfo.roleImg = "/images/base/hero/head_icon/head_caocao.png";
-		RoleManager.getInstance().roleInfo.roleImg = "/head_icon/head_caocao.png";
 
-		RoleManager.getInstance().roleInfo.updateType = true;
+//		Skills skill = ResourceManager.getInstance().getSkills("1007");
+//		if (Debug.isDebugBuild) {
+//			Debug.Log ("skill :" +skill.ToString());
+//		}
+//		RoleManager.getInstance().roleInfo.roleName = "abcd";
+//		RoleManager.getInstance().roleInfo.updateType = true;
+		ScenesManager.scenesManager.ShowScene(ScenesConfig.MAINSCENE);
 	}
 
 

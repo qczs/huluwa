@@ -758,6 +758,8 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{BEE5F517-CD20-656F-E1B0-7D510336D5FD}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-Boo.booproj">
+      <Project>{EFA78563-720E-7FBE-BE1B-2912AAA1CAF7}</Project>      <Name>Assembly-Boo</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
