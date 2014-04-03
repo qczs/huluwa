@@ -9,27 +9,21 @@ public class RoleManager {
 	{
 		if (instance == null) {
 			instance = new RoleManager ();
-			init();
+			instance.init();
 
 		}
 		return instance;  
 	}
 
-	private static RoleInfo roleInfo;
-
-	public static void init(){
+	public void init(){
 		roleInfo = new RoleInfo();
 	}
 
+	public RoleInfo roleInfo { get; set; }
+	
 	public void clear(){
 		roleInfo = null;
 		instance = null;
 	}
-
-	public RoleInfo RoleInfo {
-		get { return roleInfo; }
-		set { roleInfo = value; }
-	}
-	
 
 }

@@ -1,38 +1,35 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Xml;
 
 public class Skills {
 
-	private int skillID;
+	public int skillID { get; set; }
 	
-	public int SkillID {
-		get { return skillID; }
-		set { skillID = value; }
-	}
+	public int skillType { get; set; }
 	
-	private int skillType;
+	public string skillName{ get; set; }
 	
-	public int SkillType {
-		get { return skillType; }
-		set { skillType = value; }
-	}
-	
-	private string skillName;
-	
-	public string SkillName {
-		get { return skillName; }
-		set { skillName = value; }
-	}
-	
-	private int equipCondition;
-	
-	public int EquipCondition {
-		get { return equipCondition; }
-		set { equipCondition = value; }
-	}
+	public int equipCondition{ get; set; }
 
+	public static Skills getInstance(string id){
+		Skills skills = new Skills ();
+		XmlElement note = ResourceManager.getInstance().getXmlAttribute ("skills", "skillID", id);
+		skills.skillID = int.Parse (note.GetAttribute ("skillID"));
+		skills.skillType = int.Parse (note.GetAttribute ("skillType"));
+		skills.skillName = note.GetAttribute ("skillName");
+		skills.equipCondition = int.Parse (note.GetAttribute ("equipCondition"));
+		return skills;
+	}
+	
+	public static string getKey(string id){
+		return "skills_skillID_" + id;
+	}
 
 	public override string ToString(){
 		return "skillID:" + skillID+" skillType:"+skillType+" skillName:"+skillName+" equipCondition:"+equipCondition;
 	}
+
+
+
 }
