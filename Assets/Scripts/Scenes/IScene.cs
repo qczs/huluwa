@@ -13,14 +13,14 @@ namespace Scenes{
 				loaderManager.LoadRessour(GetViewPath(),new LoaderManager.OnLoadComplete(OnLoadComplete));
 			}
 		}
-		protected void OnLoadComplete(WWW www){
-			AssetBundle ab = www.assetBundle;
+		protected void OnLoadComplete(Object assetBundle){
+
 			Transform parent = GetParent();
-			gameobject = GameObject.Instantiate(ab.mainAsset,parent.position,parent.rotation) as GameObject;
+			gameobject = GameObject.Instantiate(assetBundle,parent.position,parent.rotation) as GameObject;
 			gameobject.transform.parent = parent;
 			gameobject.transform.localScale = parent.localScale;
 			gameobject.layer = parent.gameObject.layer;
-			ab.Unload(false);
+
 		}
 		public abstract string GetViewName();
 		public abstract string GetViewPath();
@@ -35,12 +35,13 @@ namespace Scenes{
 		}
 		public void Close(){
 			if(_destroyOnClose){
+				gameobject.SetActive(false);
 				Destory();
 			}
 		}
 
 		public void Destory(){
-
+			GameObject.Destroy(gameobject);
 		}
 	}
 }

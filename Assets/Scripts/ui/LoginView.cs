@@ -17,14 +17,14 @@ public class LoginView : MonoBehaviour {
 
 	void ButtonClick(GameObject button)
 	{
-//		Main.main.ShowView("ui/MainView");
-//		Main.main.HideView(gameObject);
-		Skills skill = ResourceManager.getInstance().getSkills("1007");
-		if (Debug.isDebugBuild) {
-			Debug.Log ("skill :" +skill.ToString());
-		}
-		RoleManager.getInstance().roleInfo.roleName = "abcd";
-		RoleManager.getInstance().roleInfo.updateType = true;
+
+//		Skills skill = ResourceManager.getInstance().getSkills("1007");
+//		if (Debug.isDebugBuild) {
+//			Debug.Log ("skill :" +skill.ToString());
+//		}
+//		RoleManager.getInstance().roleInfo.roleName = "abcd";
+//		RoleManager.getInstance().roleInfo.updateType = true;
+		ScenesManager.scenesManager.ShowScene(ScenesConfig.MAINSCENE);
 	}
 
 

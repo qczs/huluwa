@@ -3,7 +3,7 @@ using System.Collections;
 
 public class LoaderManager
 {
-	public delegate void OnLoadComplete(WWW www);
+	public delegate void OnLoadComplete(Object assetBundle);
 	private static LoaderManager _loaderManager;
 	private WWWLoader loader;
 	public static LoaderManager loaderManager{

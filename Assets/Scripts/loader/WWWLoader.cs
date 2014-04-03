@@ -21,44 +21,30 @@ public class WWWLoader : MonoBehaviour
 	public LoaderManager.OnLoadComplete onLoadCallBack;
 	public void Load(string path,LoaderManager.OnLoadComplete callback){
 		onLoadCallBack = callback;
-//		if(!File.Exists(Application.dataPath +"/"+ path + ".prefab")){
-//			StartCoroutine(loadBundle(path + ".prefab")); 
-//		}else{
+		string localPath = Application.dataPath +"/"+ path + ".prefab";
+		Debug.Log(localPath);
+		if(File.Exists(localPath)){
+			StartCoroutine(loadBundle("Assets/"+path+".prefab")); 
+		}else{
 			StartCoroutine(loadBundleFromLocal(PathURL+path+".u3d")); //本地加载
-//		}
+		}
+
 	}
 	private IEnumerator loadBundle(string name){
 
-		string pathName = Application.persistentDataPath  + name;
-		string url = PathURL + name + suffix;
-		using(WWW www =new WWW(url)){
-			yield return www;
-			if(www.error == null){
-
-				if(!File.Exists(pathName)){
-					//write file in local
-					File.WriteAllBytes(pathName,www.bytes);
-					//other function
-					//                  FileStream fs = new FileStream(Application.persistentDataPath + path + name + version,FileMode.OpenOrCreate);
-					//                  fs.Write(www.bytes,0,www.bytes.Length);
-					//                  fs.Flush();
-					//                  fs.Close();
-					Debug.Log("load bundle succeed,write file path:"+pathName );
-				}else{
-					Debug.Log("write file error...");
-				}
-				AssetBundle ab = www.assetBundle;
-				GameObject go = ab.mainAsset as GameObject;
-				cache[name] = go;
-			}
-		}
+		Debug.Log(name);
+	 	yield return new WaitForSeconds(0.01f);
+		Object assetBundle = Resources.LoadAssetAtPath<Object>(name);
+		onLoadCallBack(assetBundle);
 	}
 
 	private IEnumerator loadBundleFromLocal(string path){
+		Debug.Log("loadBundleFromLocal "+path);
 		using(WWW www = new WWW(path)){
 			yield return www;
 			if(www.error == null){
-				onLoadCallBack(www);
+				onLoadCallBack(www.assetBundle.mainAsset);
+				www.assetBundle.Unload(false);
 				Debug.Log("load data frome local succeed...");
 			}
 		}
