@@ -32,6 +32,21 @@ public class RoleInfo : BaseRole {
 	public int physicalCount{ get; set; }
 	
 	public int staminaCount{ get; set; }
-
+//
+//
+//	public string[][][] getPanelMap(){
+//			string[][][] panelMap = {
+//				{{"roleName","gold", "silver"}, {"roleImg"}}
+//				,{{"roleName","gold", "silver"}, {"roleImg"}}
+//			};
+//		return panelMap;
+//	}
+//
+//	public int getIndex(string name){
+//		if ("main".Equals(name)){
+//			return 0;
+//		}
+//		return -1;
+//	}
 
 }

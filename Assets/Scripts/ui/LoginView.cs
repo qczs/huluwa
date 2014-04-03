@@ -24,6 +24,9 @@ public class LoginView : MonoBehaviour {
 			Debug.Log ("skill :" +skill.ToString());
 		}
 		RoleManager.getInstance().roleInfo.roleName = "abcd";
+//		RoleManager.getInstance().roleInfo.roleImg = "/images/base/hero/head_icon/head_caocao.png";
+		RoleManager.getInstance().roleInfo.roleImg = "/head_icon/head_caocao.png";
+
 		RoleManager.getInstance().roleInfo.updateType = true;
 	}
 

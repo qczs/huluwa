@@ -184,6 +184,7 @@
      <Compile Include="Assets\Scripts\ui\LoginView.cs" />
      <Compile Include="Assets\Scripts\ui\MainView.cs" />
      <Compile Include="Assets\Scripts\ui\WujiangView.cs" />
+     <Compile Include="Assets\Scripts\utils\PathUtils.cs" />
      <Compile Include="Assets\Scripts\utils\ResourceManager.cs" />
      <Compile Include="Assets\Scripts\utils\ShowFPS.cs" />
      <Compile Include="Assets\Scripts\utils\TimeUtil.cs" />
