@@ -30,22 +30,51 @@ public class WWWLoader : MonoBehaviour
 		}
 
 	}
+
+	public void LoadImage(string path,UITexture uiTexture){
+		StartCoroutine(loadImageeFromLocal(PathURL+path,uiTexture));
+	}
+
 	private IEnumerator loadBundle(string name){
 
 
 	 	yield return new WaitForSeconds(0.01f);
 		Object assetBundle = Resources.LoadAssetAtPath<Object>(name);
+
 		onLoadCallBack(assetBundle);
 	}
 
 	private IEnumerator loadBundleFromLocal(string path){
 
 		using(WWW www = new WWW(path)){
-			yield return www;
+			while(!www.isDone){
+				Debug.Log(www.progress);
+				yield return 1;
+			}
+
 			if(www.error == null){
 				onLoadCallBack(www.assetBundle.mainAsset);
 				www.assetBundle.Unload(false);
+				www.Dispose();
 
+			}
+		}
+	}
+
+	private IEnumerator loadImageeFromLocal(string path,UITexture uiTexture){
+		
+		using(WWW www = new WWW(path)){
+			while(!www.isDone){
+				yield return 1;
+			}
+			
+			if(www.error == null){
+//				onLoadCallBack(www.assetBundle.mainAsset);
+
+				uiTexture.mainTexture = www.texture;
+
+				www.Dispose();
+				
 			}
 		}
 	}

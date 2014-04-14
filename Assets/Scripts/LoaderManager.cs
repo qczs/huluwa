@@ -20,14 +20,26 @@ public class LoaderManager
 		MonoBehaviour.DontDestroyOnLoad(_loader);
 		loader = _loader.AddComponent<WWWLoader>();
 	}
-
+	public UIAtlas GetUIatlas(string name){
+		UIAtlas[] atlas = Resources.FindObjectsOfTypeAll<UIAtlas>();
+		UIAtlas atla = null;
+		int length = atlas.Length;
+		for(int i = 0;i<length;i++){
+			atla = atlas[i];
+			Debug.Log(atla.name);
+			if(name.Equals(atla.name)){
+				return atla;
+			}
+		}
+		return atla;
+	}
 	public void LoadRessour(string path,OnLoadComplete callBack){
 
 		loader.Load(path,callBack);
 	}
 
-	public void LoadImage(){
-
+	public void LoadImage(string path,UITexture uiTexture){
+		loader.LoadImage(path,uiTexture);
 	}
 }
 

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 namespace Scenes{
-	public abstract  class IScene {
+	public abstract class IScene {
 		protected bool _destroyOnClose = true;
 		protected bool loaded = false;
 		protected GameObject gameobject;
@@ -49,6 +49,7 @@ namespace Scenes{
 
 		public void Destory(){
 			GameObject.Destroy(gameobject);
+			Resources.UnloadUnusedAssets();
 		}
 	}
 }

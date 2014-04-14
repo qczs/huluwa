@@ -178,6 +178,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\BundleManager.cs" />
      <Compile Include="Assets\Scripts\DoDestory.cs" />
+     <Compile Include="Assets\Scripts\GameClient.cs" />
      <Compile Include="Assets\Scripts\Globals.cs" />
      <Compile Include="Assets\Scripts\LoaderManager.cs" />
      <Compile Include="Assets\Scripts\Main.cs" />
@@ -188,6 +189,7 @@
      <Compile Include="Assets\Scripts\Scenes\MainScene.cs" />
      <Compile Include="Assets\Scripts\Scenes\ScenesConfig.cs" />
      <Compile Include="Assets\Scripts\Scenes\ScenesManager.cs" />
+     <Compile Include="Assets\Scripts\loader\QueueLoader.cs" />
      <Compile Include="Assets\Scripts\loader\WWWLoader.cs" />
      <Compile Include="Assets\Scripts\role\BaseRole.cs" />
      <Compile Include="Assets\Scripts\role\RoleInfo.cs" />

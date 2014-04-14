@@ -12,6 +12,7 @@ using UnityEngine;
 [AddComponentMenu("NGUI/Interaction/Center Scroll View on Click")]
 public class UICenterOnClick : MonoBehaviour
 {
+
 	void OnClick ()
 	{
 		UICenterOnChild center = NGUITools.FindInParents<UICenterOnChild>(gameObject);

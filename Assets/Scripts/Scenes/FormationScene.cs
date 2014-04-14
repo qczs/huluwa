@@ -14,7 +14,7 @@ public class FormationScene : IScene
 			return "ui/FormationView";
 		}
 		protected override void AddComponents(){
-
+			gameobject.AddComponent<FormationView>();
 		}
 		public override GameObject GetParent(){
 			return ScenesManager.scenesManager.centerPanel;

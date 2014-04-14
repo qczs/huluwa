@@ -1,18 +1,21 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ui/LoginView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NGUI/Scripts/UI/UIPanel.cs">
     <Files>
-      <File FileName="Assets/Scripts/Editor/MainMenu.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Main.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/utils/ShowFPS.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/utils/TimeUtil.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ui/WujiangView.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ui/LoginView.cs" Line="26" Column="54" />
-      <File FileName="Assets/Scripts/role/RoleManager.cs" Line="21" Column="2" />
-      <File FileName="Assets/Scripts/utils/ResourceManager.cs" Line="23" Column="1" />
-      <File FileName="../huluwa1/Assets/Scripts/utils/ResourceManager.cs" Line="44" Column="21" />
-      <File FileName="Assets/Scripts/ResourcesData/Skills.cs" Line="17" Column="8" />
-      <File FileName="Assets/Scripts/ui/MainView.cs" Line="16" Column="3" />
+      <File FileName="Assets/Scripts/ui/FormationView.cs" Line="192" Column="3" />
+      <File FileName="Assets/Scripts/GameClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ui/FormationView.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/Editor/UIAUTOAtlasMaker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoaderManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/loader/WWWLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/loader/QueueLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Scenes/IScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Scenes/FormationScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/NGUI/Scripts/Interaction/UIScrollView.cs" Line="363" Column="42" />
+      <File FileName="Assets/NGUI/Scripts/Interaction/UIGrid.cs" Line="15" Column="20" />
+      <File FileName="Assets/NGUI/Scripts/Interaction/UICenterOnClick.cs" Line="21" Column="11" />
+      <File FileName="Assets/NGUI/Scripts/Interaction/UIDragScrollView.cs" Line="89" Column="17" />
+      <File FileName="Assets/NGUI/Scripts/UI/UIPanel.cs" Line="1436" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
